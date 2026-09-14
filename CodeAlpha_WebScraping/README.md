@@ -1,6 +1,3 @@
-# Version 2 — Complete Internship Project
-
-## Project
 **Web Scraping, Exploratory Data Analysis & Statistical Validation**
 
 **Source:** Books to Scrape — https://books.toscrape.com/
