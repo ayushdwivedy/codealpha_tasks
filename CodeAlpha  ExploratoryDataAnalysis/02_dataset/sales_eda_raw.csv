@@ -1,0 +1,503 @@
+Order_ID,Order_Date,Region,Category,Customer_Type,Payment_Method,Quantity,Unit_Price,Discount,Sales,Delivery_Days,Customer_Satisfaction
+ORD10001,2025-08-08,South,Office Supplies,Returning,UPI,3,2543.0,0.2,6103.2,4,4.9
+ORD10002,2025-06-12,West,Office Supplies,Returning,Credit Card,3,1987.09,0.2,4769.02,5,4.3
+ORD10003,2025-08-08,West,Furniture,New,Cash,1,21806.52,0.0,21806.52,7,5.0
+ORD10004,2025-09-27,East,Clothing,New,Debit Card,7,3964.95,0.15,23591.45,6,3.9
+ORD10005,2025-04-30,North,Office Supplies,New,Debit Card,5,643.79,0.1,2897.06,3,3.7
+ORD10006,2025-12-02,North,Electronics,New,Debit Card,7,28841.55,0.2,162712.68,4,4.3
+ORD10007,2025-07-01,North,Clothing,Returning,Debit Card,2,6235.01,0.1,11223.02,4,3.6
+ORD10008,2025-04-16,West,Clothing,Returning,Debit Card,5,322.19,0.15,1369.31,4,5.0
+ORD10009,2025-08-05,East,Clothing,Returning,UPI,5,6913.97,0.1,31112.86,5,4.7
+ORD10010,2025-07-24,East,Office Supplies,Returning,Credit Card,6,1011.51,0.1,5462.15,1,4.4
+ORD10011,2025-03-11,North,Office Supplies,Returning,UPI,1,2805.14,0.0,2805.14,6,3.9
+ORD10012,2025-02-13,West,Furniture,Returning,Cash,7,11095.98,0.15,66021.08,8,3.5
+ORD10013,2025-11-25,West,Clothing,Returning,Cash,7,5841.33,0.1,36800.38,4,4.4
+ORD10014,2025-10-28,North,Clothing,New,UPI,1,3157.94,0.1,2842.15,4,2.9
+ORD10015,2025-08-16,North,Electronics,New,Debit Card,7,39243.53,0.15,234699.0,5,5.0
+ORD10016,2025-07-03,North,Electronics,New,Cash,1,33087.94,0.1,30979.15,6,3.7
+ORD10017,2025-04-17,South,Furniture,Returning,UPI,6,16615.57,0.05,94708.75,4,4.0
+ORD10018,2025-03-25,South,Clothing,Returning,Credit Card,4,6431.05,0.1,23151.78,6,3.1
+ORD10019,2025-12-04,South,Clothing,New,Cash,5,6105.98,0.1,27476.91,5,4.4
+ORD10020,2025-09-07,North,Electronics,Returning,UPI,6,2388.49,0.1,14097.85,9,3.4
+ORD10021,2025-12-29,East,Office Supplies,New,Debit Card,3,95000.0,0.0,285000.0,4,4.3
+ORD10022,2025-01-21,North,Furniture,Returning,UPI,2,23353.21,0.05,44371.1,1,4.4
+ORD10023,2025-07-15,North,Clothing,New,Cash,4,1268.08,0.05,4818.7,2,3.3
+ORD10024,2025-06-27,South,Clothing,New,Cash,3,5975.64,0.15,15237.88,5,2.9
+ORD10025,2025-01-07,South,Clothing,Returning,Cash,5,7804.36,0.0,39021.8,6,5.0
+ORD10026,2025-03-11,West,Furniture,New,Credit Card,7,2442.33,0.1,15386.68,3,3.6
+ORD10027,2025-05-07,North,Furniture,New,Cash,1,17436.21,0.2,13948.97,4,4.0
+ORD10028,2025-06-09,South,Electronics,New,Debit Card,5,21492.41,0.0,108662.05,6,4.2
+ORD10029,2025-09-05,East,Electronics,Returning,UPI,6,26399.55,0.1,143757.57,3,2.8
+ORD10030,2025-07-22,North,Clothing,Returning,Debit Card,2,957.13,0.15,1627.12,3,4.2
+ORD10031,2025-05-28,East,Clothing,New,UPI,6,631.15,0.2,3029.52,2,3.9
+ORD10032,2025-05-23,North,Clothing,Returning,Credit Card,4,5434.87,0.15,18478.56,7,3.3
+ORD10033,2025-07-18,North,Clothing,Returning,UPI,4,6639.48,0.15,22574.23,7,2.9
+ORD10034,2025-06-03,West,Office Supplies,New,UPI,2,3931.88,0.15,6684.2,2,4.3
+ORD10035,2025-05-22,West,Clothing,New,UPI,3,4487.3,0.1,12115.71,4,4.7
+ORD10036,2025-11-09,West,Clothing,New,Debit Card,3,1068.97,0.15,2725.87,7,3.9
+ORD10037,2025-06-14,South,Clothing,New,UPI,4,5597.94,0.0,22391.76,5,2.7
+ORD10038,2025-11-10,North,Electronics,Returning,Debit Card,4,11491.49,0.2,37972.77,4,3.0
+ORD10039,2025-01-21,East,Furniture,New,UPI,7,22883.44,0.1,144165.67,2,3.5
+ORD10040,2025-03-23,South,Electronics,Returning,UPI,1,37851.33,0.1,35266.2,7,5.0
+ORD10041,2025-03-10,North,Clothing,Returning,Credit Card,7,5762.25,0.05,38318.96,5,3.6
+ORD10042,2025-05-11,South,Office Supplies,New,Debit Card,7,4749.35,0.15,28258.63,2,3.4
+ORD10043,2025-03-28,North,Electronics,Returning,UPI,3,2188.84,0.0,7766.52,7,2.5
+ORD10044,2025-08-06,West,Office Supplies,New,Credit Card,2,3707.38,0.2,5931.81,2,3.3
+ORD10045,2025-11-01,North,Office Supplies,Returning,Cash,3,1718.19,0.15,4381.38,4,2.8
+ORD10046,2025-12-11,East,Furniture,Returning,Credit Card,1,22764.37,0.05,21626.15,4,3.0
+ORD10047,2025-12-07,South,Electronics,Returning,UPI,6,12587.04,0.15,65393.9,7,3.9
+ORD10048,2025-06-10,South,Office Supplies,Returning,UPI,4,3651.8,0.15,12416.12,4,3.5
+ORD10049,2025-06-27,East,Office Supplies,New,Cash,4,4400.47,0.1,15841.69,4,5.0
+ORD10050,2025-04-27,North,Clothing,Returning,UPI,1,620.76,0.05,589.72,2,4.7
+ORD10051,2025-07-15,West,Office Supplies,Returning,Cash,7,2048.47,0.05,13622.33,3,3.3
+ORD10052,2025-11-23,West,Clothing,Returning,Credit Card,2,6169.78,0.05,11722.58,3,3.1
+ORD10053,2025-03-27,West,Office Supplies,Returning,Cash,4,2329.1,0.05,8850.58,3,4.9
+ORD10054,2025-10-16,West,Office Supplies,Returning,Debit Card,5,1409.54,0.2,5638.16,5,5.0
+ORD10055,2025-03-22,East,Clothing,New,Cash,7,1992.5,0.0,13947.5,1,2.0
+ORD10056,2025-06-01,West,Furniture,New,UPI,4,4330.13,0.15,14722.44,2,3.9
+ORD10057,2025-03-02,North,Electronics,Returning,Debit Card,5,38685.13,0.05,184954.37,4,3.6
+ORD10058,2025-03-02,North,Electronics,New,Credit Card,1,26230.71,0.1,24807.64,5,4.3
+ORD10059,2025-12-20,North,Clothing,Returning,Credit Card,1,888.16,0.15,754.94,4,5.0
+ORD10060,2025-01-28,South,Office Supplies,Returning,Credit Card,7,1974.64,0.2,11057.98,4,3.4
+ORD10061,2025-02-12,South,Office Supplies,New,Cash,4,1901.89,0.05,7227.18,4,2.2
+ORD10062,2025-06-18,North,Electronics,New,Cash,3,8832.87,0.1,25048.75,4,4.3
+ORD10063,2025-03-27,West,Electronics,Returning,Debit Card,5,20049.44,0.1,91422.48,5,4.9
+ORD10064,2025-06-26,South,Electronics,New,Credit Card,2,15478.79,0.0,32157.58,5,3.6
+ORD10065,2025-01-17,North,Furniture,Returning,Credit Card,4,9334.93,0.05,35472.73,3,3.2
+ORD10066,2025-04-08,East,Office Supplies,Returning,Debit Card,2,3721.23,0.1,6698.21,6,3.5
+ORD10067,2025-07-17,North,Furniture,Returning,UPI,4,6513.67,0.1,23449.21,5,4.5
+ORD10068,2025-04-08,West,Furniture,New,UPI,3,16476.27,0.15,42014.49,7,3.4
+ORD10069,2025-03-06,North,Clothing,Returning,UPI,3,4694.0,0.05,13377.9,7,4.1
+ORD10070,2025-11-26,West,Furniture,Returning,UPI,7,14720.6,0.1,92739.78,2,3.8
+ORD10071,2025-12-07,West,Office Supplies,Returning,UPI,7,3348.74,0.1,21097.06,3,3.7
+ORD10072,2025-01-05,North,Clothing,New,UPI,3,4522.54,0.15,11532.48,6,4.4
+ORD10073,2025-01-02,North,Furniture,Returning,UPI,6,22126.27,0.2,106206.1,2,3.4
+ORD10074,2025-01-22,West,Office Supplies,Returning,UPI,3,3410.34,0.1,9207.92,7,3.5
+ORD10075,2025-04-22,East,Clothing,New,Cash,1,4511.62,0.15,3834.88,4,4.4
+ORD10076,2025-02-26,West,Clothing,New,Credit Card,1,6689.18,0.05,6354.72,6,3.0
+ORD10077,2025-03-07,West,Electronics,New,Credit Card,6,27591.68,0.1,150195.07,4,3.1
+ORD10078,2025-11-26,North,Clothing,Returning,Debit Card,5,2541.81,0.05,12073.6,2,2.8
+ORD10079,2025-04-08,South,Furniture,Returning,UPI,2,6128.86,0.1,11031.95,6,4.5
+ORD10080,2025-05-24,North,Electronics,Returning,Cash,4,7532.89,0.15,26811.83,9,3.7
+ORD10081,2025-05-05,West,Furniture,New,Debit Card,4,22607.03,0.2,72342.5,4,2.7
+ORD10082,2025-06-16,East,Clothing,New,UPI,6,5768.04,0.0,34608.24,4,4.5
+ORD10083,2025-03-27,South,Furniture,Returning,Credit Card,1,23509.61,0.1,21158.65,1,3.4
+ORD10084,2025-03-17,North,Furniture,Returning,Cash,7,15558.34,0.1,98017.54,7,3.1
+ORD10085,2025-12-10,South,Office Supplies,Returning,Cash,4,2419.66,0.0,9678.64,6,3.6
+ORD10086,2025-10-21,South,Electronics,New,Credit Card,1,3439.47,0.05,4467.5,1,5.0
+ORD10087,2025-02-28,West,Electronics,Returning,Credit Card,5,30486.59,0.05,146011.3,1,3.5
+ORD10088,2025-05-18,East,Electronics,New,UPI,2,26533.63,0.0,54267.26,1,4.3
+ORD10089,2025-04-09,West,Electronics,Returning,Cash,5,44567.23,0.05,212894.34,6,4.4
+ORD10090,2025-07-11,South,Electronics,Returning,UPI,6,11370.82,0.05,66013.67,6,4.2
+ORD10091,2025-08-31,North,Electronics,Returning,Cash,3,24258.59,0.05,70336.98,3,4.8
+ORD10092,2025-11-15,East,Office Supplies,Returning,Debit Card,3,3289.69,0.15,8388.71,5,3.2
+ORD10093,2025-02-18,West,Electronics,New,Credit Card,3,29290.93,0.1,80285.51,5,3.0
+ORD10094,2025-02-01,East,Furniture,New,Credit Card,5,14558.79,0.25,54595.46,4,2.9
+ORD10095,2025-10-04,West,Clothing,Returning,UPI,4,6282.35,0.1,22616.46,6,3.7
+ORD10096,2025-01-20,South,Furniture,Returning,UPI,2,6078.55,0.15,10333.54,2,3.0
+ORD10097,2025-06-03,South,Office Supplies,New,UPI,3,3655.57,0.2,8773.37,7,3.9
+ORD10098,2025-03-09,South,Electronics,New,UPI,6,28192.27,0.15,144980.58,3,3.9
+ORD10099,2025-08-02,North,Electronics,New,Debit Card,6,40406.52,0.1,219395.21,8,4.6
+ORD10100,2025-05-23,North,Electronics,Returning,UPI,3,38245.99,0.15,98727.27,3,4.0
+ORD10101,2025-08-20,North,Electronics,New,UPI,3,14729.5,0.05,43179.08,4,3.5
+ORD10102,2025-08-01,East,Electronics,New,Cash,2,13009.69,0.05,25918.41,5,4.1
+ORD10103,2025-03-20,South,Electronics,New,Cash,3,44189.08,0.1,120510.52,5,3.0
+ORD10104,2025-08-02,South,Electronics,New,Cash,2,24105.12,0.1,44589.22,5,3.8
+ORD10105,2025-04-26,West,Electronics,New,Cash,6,40863.81,0.0,246382.86,2,4.1
+ORD10106,2025-04-02,North,Furniture,Returning,UPI,3,5100.37,0.2,12240.89,4,3.9
+ORD10107,2025-09-27,South,Electronics,New,Credit Card,5,29212.6,0.15,125353.55,5,4.1
+ORD10108,2025-06-17,West,Furniture,Returning,Debit Card,7,20474.67,0.1,128990.42,4,3.3
+ORD10109,2025-02-27,North,Office Supplies,New,Debit Card,5,4742.24,0.2,18968.96,5,4.7
+ORD10110,2025-10-11,North,Office Supplies,Returning,UPI,6,1752.97,0.1,9466.04,2,5.0
+ORD10111,2025-01-26,North,Electronics,Returning,Debit Card,2,32844.17,0.25,50466.26,4,2.5
+ORD10112,2025-03-07,North,Clothing,Returning,UPI,5,4448.86,0.1,20019.87,3,2.8
+ORD10113,2025-09-05,West,Office Supplies,Returning,UPI,2,397.08,0.0,794.16,4,3.8
+ORD10114,2025-09-11,West,Electronics,New,Credit Card,5,31297.99,0.15,134216.46,7,3.6
+ORD10115,2025-02-13,East,Clothing,New,Credit Card,5,5613.74,0.15,23858.39,7,5.0
+ORD10116,2025-04-07,West,Clothing,Returning,Credit Card,2,7465.67,0.15,12691.64,7,4.0
+ORD10117,2025-02-11,West,Electronics,Returning,UPI,4,22781.21,0.25,69543.63,4,
+ORD10118,2025-08-15,North,Electronics,Returning,Cash,5,10977.09,0.15,47852.63,6,2.2
+ORD10119,2025-09-19,West,Clothing,Returning,UPI,3,643.14,0.1,1736.48,5,4.5
+ORD10120,2025-06-16,South,Office Supplies,Returning,UPI,7,2136.65,0.2,11965.24,5,3.2
+ORD10121,2025-10-06,West,Electronics,Returning,Cash,6,14144.72,0.15,73338.07,20,3.2
+ORD10122,2025-03-30,West,Electronics,New,Cash,4,34440.1,0.1,125184.36,8,3.6
+ORD10123,2025-06-27,South,Furniture,Returning,Cash,2,9631.57,0.2,15410.51,7,2.7
+ORD10124,2025-07-16,North,Furniture,Returning,Debit Card,4,23787.89,0.05,90393.98,6,4.2
+ORD10125,2025-11-03,North,Office Supplies,New,Debit Card,1,4815.32,0.15,4093.02,4,4.0
+ORD10126,2025-09-24,South,Furniture,Returning,Credit Card,1,15977.62,0.2,12782.1,5,4.0
+ORD10127,2025-09-25,West,Furniture,New,UPI,5,23302.11,0.15,99033.97,5,4.5
+ORD10128,2025-03-15,West,Office Supplies,Returning,Credit Card,5,3828.19,0.15,16269.81,4,5.0
+ORD10129,2025-01-08,North,Electronics,New,UPI,3,24971.2,0.15,64876.56,6,3.5
+ORD10130,2025-10-24,South,Electronics,Returning,UPI,7,8769.61,0.1,56448.54,3,4.2
+ORD10131,2025-06-13,South,Office Supplies,Returning,Debit Card,6,2347.13,0.2,11266.22,5,4.0
+ORD10132,2025-03-26,North,Clothing,New,Credit Card,4,4618.73,0.05,17551.17,1,4.1
+ORD10133,2025-03-13,North,Office Supplies,Returning,UPI,1,4333.41,0.0,4333.41,4,4.1
+ORD10134,2025-02-24,South,Office Supplies,Returning,UPI,5,2458.53,0.05,11678.02,8,5.0
+ORD10135,2025-02-16,West,Electronics,Returning,Debit Card,6,40477.22,0.1,219776.99,6,3.4
+ORD10136,2025-08-26,South,Furniture,New,UPI,4,17249.51,0.1,62098.24,7,2.6
+ORD10137,2025-04-14,South,Office Supplies,New,Cash,5,771.3,0.15,3278.02,3,3.2
+ORD10138,2025-07-29,East,Electronics,New,Credit Card,5,44778.18,0.1,202701.81,5,4.4
+ORD10139,2025-02-11,South,Electronics,Returning,Credit Card,1,24103.68,0.1,22893.31,7,3.8
+ORD10140,2025-11-12,West,Furniture,Returning,Credit Card,1,10526.23,0.0,10526.23,6,3.4
+ORD10141,2025-09-25,West,Electronics,Returning,Debit Card,5,29932.83,0.1,135897.74,5,2.9
+ORD10142,2025-09-20,North,Furniture,Returning,UPI,2,3791.66,0.1,6824.99,7,4.0
+ORD10143,2025-12-02,South,Electronics,Returning,Debit Card,5,28935.01,0.0,145875.05,3,4.3
+ORD10144,2025-12-31,South,Furniture,Returning,Credit Card,6,13058.02,0.05,74430.71,4,4.0
+ORD10145,2025-09-16,North,Electronics,New,UPI,5,18774.99,0.05,90381.2,1,3.6
+ORD10146,2025-10-10,North,Clothing,Returning,Cash,3,7638.25,0.0,22914.75,3,3.9
+ORD10147,2025-04-24,East,Office Supplies,New,Debit Card,7,2660.44,0.1,16760.77,6,3.9
+ORD10148,2025-12-29,South,Office Supplies,Returning,Debit Card,3,1173.68,0.0,3521.04,3,4.0
+ORD10149,2025-02-09,North,Clothing,Returning,Cash,3,3834.02,0.15,9776.75,6,2.9
+ORD10150,2025-08-08,North,Furniture,Returning,Cash,2,23081.42,0.15,39238.41,7,4.0
+ORD10151,2025-05-09,West,Electronics,New,Debit Card,2,8583.42,0.1,16650.16,4,3.4
+ORD10152,2025-01-08,North,Office Supplies,New,Debit Card,5,1148.39,0.25,4306.46,5,4.6
+ORD10153,2025-04-11,North,Office Supplies,New,Debit Card,3,163.84,0.1,442.37,6,3.9
+ORD10154,2025-06-25,South,Office Supplies,New,Debit Card,2,169.53,0.1,305.15,2,4.5
+ORD10155,2025-04-17,West,Furniture,New,Credit Card,1,20939.52,0.25,15704.64,3,3.6
+ORD10156,2025-04-11,North,Electronics,Returning,Debit Card,5,33159.82,0.05,158709.14,3,3.6
+ORD10157,2025-09-17,East,Furniture,Returning,UPI,6,9649.98,0.2,46319.9,4,5.0
+ORD10158,2025-09-03,West,Furniture,New,Cash,7,17819.81,0.0,124738.67,6,4.1
+ORD10159,2025-10-02,North,Office Supplies,New,Cash,4,2036.51,0.1,7331.44,3,3.2
+ORD10160,2025-02-01,West,Office Supplies,Returning,UPI,5,4769.19,0.0,23845.95,4,4.5
+ORD10161,2025-05-17,South,Furniture,Returning,Debit Card,4,24215.85,0.15,82333.89,3,3.4
+ORD10162,2025-01-12,East,Clothing,Returning,UPI,3,3324.51,0.1,8976.18,7,4.0
+ORD10163,2025-10-29,East,Office Supplies,Returning,UPI,7,4285.69,0.15,25499.86,4,5.0
+ORD10164,2025-01-16,South,Electronics,Returning,Debit Card,4,34970.54,0.05,134088.05,7,2.7
+ORD10165,2025-05-09,North,Electronics,Returning,UPI,3,14502.0,0.05,42530.7,5,3.7
+ORD10166,2025-03-04,West,Electronics,Returning,Debit Card,1,11056.16,0.0,12256.16,2,4.1
+ORD10167,2025-04-19,South,Electronics,New,Debit Card,4,21053.97,0.05,81205.09,4,4.4
+ORD10168,2025-01-21,North,Electronics,Returning,Credit Card,7,35335.62,0.2,199079.47,3,2.8
+ORD10169,2025-06-07,North,Electronics,New,UPI,5,43239.42,0.05,206587.24,6,2.6
+ORD10170,2025-09-26,East,Furniture,Returning,UPI,3,19373.18,0.15,49401.61,4,4.7
+ORD10171,2025-06-11,East,Electronics,New,Credit Card,5,38600.15,0.15,165250.64,5,3.2
+ORD10172,2025-09-17,North,Clothing,Returning,Cash,7,4943.6,0.05,32874.94,4,3.2
+ORD10173,2025-04-12,South,Electronics,Returning,Debit Card,2,37725.03,0.1,69105.05,4,5.0
+ORD10174,2025-08-11,North,Office Supplies,Returning,UPI,3,3943.66,0.0,11830.98,3,3.9
+ORD10175,2025-02-28,East,Furniture,Returning,Debit Card,4,10172.26,0.0,40689.04,6,3.9
+ORD10176,2025-09-04,North,Clothing,New,Credit Card,3,4550.33,0.0,13650.99,4,3.7
+ORD10177,2025-05-08,East,Electronics,New,Debit Card,5,36370.09,0.1,164865.4,4,2.8
+ORD10178,2025-10-10,South,Furniture,New,UPI,1,2296.15,0.1,2066.54,4,4.3
+ORD10179,2025-11-21,West,Clothing,New,Debit Card,3,6522.21,0.1,17609.97,3,4.1
+ORD10180,2025-01-25,North,Clothing,Returning,Credit Card,4,1669.74,0.1,6011.06,4,3.9
+ORD10181,2025-05-11,South,Clothing,New,Cash,2,4263.06,0.05,8099.81,5,3.7
+ORD10182,2025-12-19,North,Electronics,Returning,UPI,6,36525.77,0.15,187481.43,3,3.6
+ORD10183,2025-07-15,West,Electronics,Returning,Debit Card,1,12018.89,0.15,11416.06,3,4.5
+ORD10184,2025-10-08,West,Office Supplies,Returning,Cash,2,1304.46,0.0,2608.92,7,3.7
+ORD10185,2025-06-03,North,Clothing,New,UPI,3,3401.29,0.05,9693.68,4,3.7
+ORD10186,2025-05-13,East,Office Supplies,Returning,Cash,5,4483.75,0.15,19055.94,4,4.2
+ORD10187,2025-08-15,West,Office Supplies,Returning,Debit Card,7,102.17,0.05,679.43,2,4.0
+ORD10188,2025-07-08,East,Electronics,Returning,UPI,5,40641.13,0.15,173924.8,6,5.0
+ORD10189,2025-09-22,South,Clothing,Returning,UPI,4,1484.31,0.05,5640.38,3,2.4
+ORD10190,2025-05-14,North,Electronics,Returning,Debit Card,5,44561.82,0.05,212868.64,4,4.0
+ORD10191,2025-07-30,North,Furniture,New,UPI,1,23925.36,0.0,23925.36,1,3.2
+ORD10192,2025-03-01,West,Furniture,Returning,Credit Card,5,12973.27,0.05,61623.03,6,3.0
+ORD10193,2025-12-30,West,Office Supplies,New,UPI,4,2612.33,0.1,9404.39,7,3.4
+ORD10194,2025-12-30,East,Electronics,New,,6,22084.48,0.1,120456.19,5,3.8
+ORD10195,2025-08-01,South,Electronics,New,UPI,3,28886.61,0.15,74860.86,2,3.9
+ORD10196,2025-08-04,South,Office Supplies,New,Cash,7,544.54,0.2,3049.42,6,2.6
+ORD10197,2025-08-14,West,Furniture,New,Cash,3,1976.31,0.1,5336.04,3,3.4
+ORD10198,2025-05-11,West,Office Supplies,New,Cash,5,382.74,0.15,1626.64,2,4.0
+ORD10199,2025-03-17,West,Electronics,Returning,Debit Card,2,20440.95,0.05,40037.8,4,3.1
+ORD10200,2025-10-13,West,Furniture,Returning,UPI,3,7758.04,0.1,20946.71,4,2.9
+ORD10201,2025-10-04,East,Office Supplies,Returning,Debit Card,6,3147.99,0.15,16054.75,4,2.0
+ORD10202,2025-06-05,North,Electronics,Returning,UPI,5,44665.95,0.05,213363.26,7,3.3
+ORD10203,2025-09-05,North,Furniture,New,UPI,7,10394.49,0.1,65485.29,8,2.9
+ORD10204,2025-08-06,West,Electronics,Returning,UPI,4,26163.78,0.0,105855.12,2,3.0
+ORD10205,2025-07-09,East,Electronics,Returning,Credit Card,6,19169.69,0.1,104716.33,3,3.6
+ORD10206,2025-06-12,North,Clothing,New,Debit Card,5,6823.99,0.2,27295.96,5,3.3
+ORD10207,2025-06-29,North,Furniture,Returning,Debit Card,6,22673.23,0.2,108831.5,4,2.9
+ORD10208,2025-02-03,East,Clothing,New,Credit Card,3,7055.64,0.15,17991.88,5,2.1
+ORD10209,2025-02-10,North,Electronics,Returning,UPI,7,43867.25,0.15,262210.14,6,4.0
+ORD10210,2025-11-03,North,Office Supplies,Returning,Cash,4,234.84,0.1,845.42,6,4.4
+ORD10211,2025-12-04,East,Clothing,New,Credit Card,5,6766.58,0.1,30449.61,6,3.5
+ORD10212,2025-11-10,East,Office Supplies,New,Credit Card,1,3783.68,0.0,3783.68,7,3.6
+ORD10213,2025-03-16,East,Furniture,Returning,UPI,4,6642.93,0.1,23914.55,2,3.8
+ORD10214,2025-10-06,North,Furniture,Returning,Debit Card,1,23960.42,0.1,21564.38,7,5.0
+ORD10215,2025-06-25,East,Furniture,New,,6,4726.63,0.25,21269.84,4,2.5
+ORD10216,2025-05-30,North,Clothing,Returning,UPI,2,5532.53,0.1,9958.55,6,3.5
+ORD10217,2025-09-30,South,Clothing,New,UPI,4,2031.65,0.1,7313.94,3,2.4
+ORD10218,2025-11-21,West,Clothing,Returning,Debit Card,6,3621.63,0.1,19556.8,3,4.1
+ORD10219,2025-04-18,East,Electronics,Returning,Debit Card,1,32586.87,0.1,30528.18,6,3.7
+ORD10220,2025-05-19,West,Office Supplies,New,UPI,3,2860.29,0.15,7293.74,1,4.0
+ORD10221,2025-12-16,East,Clothing,New,Cash,3,3591.76,0.05,10236.52,6,3.9
+ORD10222,2025-09-28,East,Electronics,New,UPI,2,15224.16,0.1,28603.49,7,4.6
+ORD10223,2025-12-13,North,Electronics,New,Credit Card,4,37912.96,0.15,130104.06,5,4.2
+ORD10224,2025-10-16,South,Office Supplies,New,Cash,4,804.69,0.1,2896.88,5,4.5
+ORD10225,2025-07-31,North,Office Supplies,Returning,Credit Card,4,2207.5,0.05,8388.5,3,2.9
+ORD10226,2025-09-29,North,Clothing,New,Debit Card,6,7258.93,0.15,37020.54,6,4.8
+ORD10227,2025-03-07,West,Electronics,Returning,Credit Card,7,38186.55,0.15,228409.97,5,3.2
+ORD10228,2025-09-05,South,Clothing,Returning,UPI,7,3387.25,0.0,23710.75,3,3.3
+ORD10229,2025-06-05,West,Electronics,Returning,Cash,2,34529.39,0.15,59899.96,4,4.0
+ORD10230,2025-02-16,East,Electronics,Returning,Credit Card,4,37183.71,0.15,127624.61,4,4.0
+ORD10231,2025-07-20,West,Electronics,New,Cash,6,40088.82,0.1,217679.63,4,2.9
+ORD10232,2025-05-28,South,Clothing,Returning,UPI,3,4492.69,0.25,10108.55,2,3.7
+ORD10233,2025-05-04,East,Office Supplies,Returning,UPI,1,1101.86,0.15,936.58,6,5.0
+ORD10234,2025-01-01,South,Office Supplies,Returning,UPI,6,1351.01,0.15,6890.15,4,2.6
+ORD10235,2025-09-04,North,Furniture,New,Debit Card,7,8237.53,0.15,49013.3,5,5.0
+ORD10236,2025-12-09,West,Clothing,Returning,UPI,7,4872.28,0.0,34105.96,3,3.6
+ORD10237,2025-05-08,North,Furniture,Returning,Cash,3,1980.87,0.05,5645.48,5,1.9
+ORD10238,2025-07-10,North,Clothing,New,Credit Card,3,5197.53,0.1,14033.33,5,2.7
+ORD10239,2025-03-08,East,Furniture,New,Cash,1,9871.63,0.05,9378.05,7,3.0
+ORD10240,2025-01-04,North,Furniture,New,UPI,3,8226.75,0.1,22212.22,5,3.3
+ORD10241,2025-10-30,West,Furniture,Returning,Cash,2,22132.02,0.2,35411.23,4,3.7
+ORD10242,2025-10-21,West,Furniture,Returning,Debit Card,1,12148.06,0.15,10325.85,3,1.6
+ORD10243,2025-05-23,West,Office Supplies,Returning,Debit Card,3,565.76,0.1,1527.55,6,3.9
+ORD10244,2025-07-10,South,Office Supplies,New,Debit Card,5,4151.06,0.2,16604.24,4,3.0
+ORD10245,2025-01-21,North,Electronics,New,Debit Card,6,2905.74,0.15,16019.27,4,4.9
+ORD10246,2025-08-15,West,Clothing,Returning,Credit Card,3,5895.97,0.1,15919.12,4,3.6
+ORD10247,2025-11-09,South,Furniture,New,UPI,2,19618.97,0.05,37276.04,4,4.6
+ORD10248,2025-04-27,West,Office Supplies,New,UPI,4,1827.75,0.1,6579.9,4,4.7
+ORD10249,2025-10-29,West,Clothing,Returning,Cash,3,6650.87,0.15,16959.72,8,4.7
+ORD10250,2025-05-22,West,Office Supplies,New,Credit Card,7,2626.73,0.1,16548.4,3,3.3
+ORD10251,2025-02-08,North,Electronics,Returning,Debit Card,7,21277.58,0.15,127801.6,3,3.3
+ORD10252,2025-12-21,South,Clothing,New,Credit Card,7,649.61,0.0,4547.27,7,3.6
+ORD10253,2025-09-09,West,Office Supplies,New,UPI,4,1521.14,0.15,5171.88,4,4.3
+ORD10254,2025-11-29,South,Furniture,New,UPI,7,23358.04,0.15,138980.34,4,3.4
+ORD10255,2025-07-26,North,Electronics,Returning,Debit Card,5,18118.62,0.15,78204.13,6,
+ORD10256,2025-07-29,East,Clothing,Returning,Credit Card,3,4509.59,0.25,10146.58,2,4.0
+ORD10257,2025-04-25,West,Office Supplies,Returning,UPI,7,2706.91,0.15,16106.11,6,3.1
+ORD10258,2025-08-13,East,Office Supplies,Returning,Credit Card,1,2993.11,0.2,2394.49,5,3.0
+ORD10259,2025-05-14,East,Clothing,New,UPI,4,772.25,0.2,2471.2,5,3.7
+ORD10260,2025-09-08,North,Clothing,Returning,Credit Card,5,3088.76,0.15,13127.23,5,3.8
+ORD10261,2025-08-07,East,Electronics,Returning,UPI,1,32762.27,0.15,29047.93,3,4.1
+ORD10262,2025-04-01,West,Furniture,Returning,Debit Card,1,5973.33,0.0,5973.33,6,4.3
+ORD10263,2025-12-20,North,Electronics,New,UPI,1,9798.16,0.1,10018.34,4,2.9
+ORD10264,2025-02-15,South,Office Supplies,Returning,Credit Card,1,149.44,0.1,134.5,5,3.2
+ORD10265,2025-02-07,West,Electronics,New,UPI,3,20136.7,0.05,58589.6,7,3.0
+ORD10266,2025-05-22,West,Office Supplies,New,UPI,7,4425.4,0.05,29428.91,7,4.9
+ORD10267,2025-04-10,East,Clothing,Returning,Credit Card,6,699.64,0.25,3148.38,4,3.7
+ORD10268,2025-11-24,East,Clothing,Returning,Credit Card,3,1771.61,0.2,4251.86,5,3.8
+ORD10269,2025-07-09,South,Furniture,New,Credit Card,3,8580.01,0.15,21879.03,4,3.8
+ORD10270,2025-02-04,North,Clothing,New,UPI,5,5934.28,0.1,26704.26,9,3.2
+ORD10271,2025-05-27,West,Electronics,Returning,Debit Card,5,29116.09,0.0,146780.45,6,5.0
+ORD10272,2025-01-30,West,Clothing,Returning,Cash,7,3502.77,0.0,24519.39,5,4.1
+ORD10273,2025-11-30,West,Electronics,Returning,Debit Card,6,34350.85,0.05,196999.84,5,3.8
+ORD10274,2025-03-25,West,Furniture,Returning,UPI,5,15709.22,0.0,78546.1,5,2.9
+ORD10275,2025-10-08,South,Clothing,Returning,Credit Card,7,7199.51,0.0,50396.57,5,2.9
+ORD10276,2025-12-10,South,Electronics,New,UPI,7,36956.78,0.2,208157.97,4,3.6
+ORD10277,2025-09-27,West,Electronics,Returning,UPI,2,11974.36,0.15,21556.41,4,3.2
+ORD10278,2025-06-03,East,Office Supplies,Returning,Cash,6,1430.05,0.05,8151.28,4,2.9
+ORD10279,2025-04-12,East,Office Supplies,New,UPI,5,714.25,0.0,3571.25,2,3.5
+ORD10280,2025-08-03,West,Office Supplies,Returning,Credit Card,6,1751.13,0.1,9456.1,6,3.6
+ORD10281,2025-05-30,West,Office Supplies,New,Credit Card,3,4997.77,0.0,14993.31,3,3.9
+ORD10282,2025-03-24,South,Office Supplies,Returning,Debit Card,3,2088.18,0.2,5011.63,3,3.4
+ORD10283,2025-04-20,South,Electronics,Returning,Credit Card,6,10545.59,0.1,58146.19,4,3.0
+ORD10284,2025-10-02,North,Furniture,Returning,UPI,2,19347.09,0.1,34824.76,4,3.0
+ORD10285,2025-07-20,East,Electronics,Returning,UPI,2,24777.22,0.05,48276.72,5,4.8
+ORD10286,2025-10-11,North,Clothing,Returning,Credit Card,6,1451.93,0.0,8711.58,3,2.8
+ORD10287,2025-06-22,South,Office Supplies,Returning,UPI,5,1965.38,0.1,8844.21,4,4.1
+ORD10288,2025-11-23,East,Furniture,Returning,,4,11064.38,0.15,37618.89,6,4.2
+ORD10289,2025-07-25,North,Furniture,New,UPI,2,19141.15,0.15,32539.96,6,3.7
+ORD10290,2025-03-04,East,Clothing,Returning,UPI,1,459.17,0.0,459.17,6,5.0
+ORD10291,2025-03-14,North,Electronics,New,Credit Card,3,12690.67,0.1,35464.81,5,4.2
+ORD10292,2025-09-08,North,Office Supplies,Returning,UPI,6,2636.22,0.1,14235.59,5,5.0
+ORD10293,2025-05-04,West,Office Supplies,Returning,Credit Card,1,1417.35,0.2,1133.88,5,3.3
+ORD10294,2025-05-01,South,Office Supplies,Returning,Debit Card,6,3179.33,0.05,18122.18,3,3.3
+ORD10295,2025-10-02,North,Electronics,New,Debit Card,7,22098.54,0.05,148155.29,7,4.2
+ORD10296,2025-04-30,South,Clothing,New,UPI,3,3085.17,0.1,8329.96,7,3.6
+ORD10297,2025-11-13,West,Clothing,Returning,UPI,3,7608.91,0.1,20544.06,6,5.0
+ORD10298,2025-06-13,North,Office Supplies,New,UPI,2,3197.58,0.1,5755.64,4,4.1
+ORD10299,2025-10-13,East,Office Supplies,New,Debit Card,2,736.71,0.1,1326.08,5,3.0
+ORD10300,2025-09-22,North,Clothing,New,Debit Card,1,4612.71,0.1,4151.44,6,2.4
+ORD10301,2025-11-16,North,Office Supplies,Returning,UPI,7,3925.59,0.2,21983.3,2,3.7
+ORD10302,2025-06-10,South,Electronics,Returning,Cash,6,32115.24,0.1,174622.3,8,3.7
+ORD10303,2025-11-04,East,Office Supplies,New,UPI,7,943.24,0.2,5282.14,1,4.1
+ORD10304,2025-03-30,East,Office Supplies,New,Credit Card,3,4864.86,0.1,13135.12,6,4.8
+ORD10305,2025-05-22,West,Furniture,New,Debit Card,1,11881.76,0.2,9505.41,7,4.7
+ORD10306,2025-07-22,West,Office Supplies,Returning,Cash,4,879.22,0.15,2989.35,4,3.3
+ORD10307,2025-11-05,South,Clothing,Returning,Debit Card,1,1687.51,0.05,1603.13,4,2.8
+ORD10308,2025-08-15,South,Clothing,New,Debit Card,5,1056.41,0.2,4225.64,6,2.8
+ORD10309,2025-11-30,West,Furniture,New,UPI,1,20323.73,0.0,20323.73,8,3.2
+ORD10310,2025-08-10,North,Electronics,New,Debit Card,7,6193.75,0.2,35885.0,4,3.5
+ORD10311,2025-02-10,South,Clothing,Returning,UPI,5,1263.46,0.1,5685.57,3,
+ORD10312,2025-07-15,North,Clothing,Returning,Cash,5,6848.63,0.0,34243.15,4,3.2
+ORD10313,2025-03-09,North,Electronics,New,Credit Card,5,16031.5,0.1,73341.75,2,4.0
+ORD10314,2025-09-21,West,Clothing,New,Debit Card,4,537.61,0.25,1612.83,6,4.1
+ORD10315,2025-01-02,West,Clothing,New,Credit Card,1,699.59,0.0,699.59,4,3.9
+ORD10316,2025-12-27,East,Office Supplies,Returning,Debit Card,7,796.64,0.1,5018.83,4,2.9
+ORD10317,2025-05-05,South,Office Supplies,New,Credit Card,1,1145.63,0.15,973.79,6,4.2
+ORD10318,2025-04-20,North,Furniture,Returning,Debit Card,4,17030.48,0.15,57903.63,4,5.0
+ORD10319,2025-03-27,North,Electronics,Returning,UPI,3,7753.82,0.1,22135.31,6,4.0
+ORD10320,2025-04-30,North,Furniture,New,UPI,2,4029.21,0.05,7655.5,3,1.4
+ORD10321,2025-05-07,East,Clothing,New,UPI,7,6188.34,0.0,43318.38,6,4.8
+ORD10322,2025-09-12,East,Electronics,New,UPI,7,30460.64,0.1,193102.03,5,3.2
+ORD10323,2025-07-02,East,Furniture,Returning,Cash,1,11560.72,0.1,10404.65,4,5.0
+ORD10324,2025-01-16,North,Furniture,Returning,UPI,2,14273.57,0.2,22837.71,5,3.9
+ORD10325,2025-03-03,West,Office Supplies,Returning,Cash,6,1628.72,0.0,9772.32,2,2.5
+ORD10326,2025-06-07,West,Clothing,Returning,UPI,6,4015.25,0.15,20477.77,5,2.1
+ORD10327,2025-09-25,East,Furniture,New,UPI,4,13258.81,0.0,53035.24,4,5.0
+ORD10328,2025-02-04,East,Furniture,Returning,Debit Card,6,10416.25,0.0,62497.5,2,4.7
+ORD10329,2025-09-24,South,Office Supplies,Returning,Debit Card,7,4542.2,0.1,28615.86,3,5.0
+ORD10330,2025-03-05,North,Furniture,New,Credit Card,6,1582.27,0.1,8544.26,4,3.8
+ORD10331,2025-02-19,South,Electronics,Returning,Credit Card,3,35371.97,0.15,91398.52,3,3.8
+ORD10332,2025-09-12,West,Furniture,Returning,Debit Card,3,4160.31,0.2,9984.74,1,3.5
+ORD10333,2025-05-29,North,Electronics,Returning,UPI,3,36051.59,0.1,98539.29,6,3.3
+ORD10334,2025-11-21,North,Electronics,Returning,Cash,6,28023.31,0.25,127304.9,4,3.5
+ORD10335,2025-10-31,North,Furniture,Returning,Cash,4,21270.02,0.2,68064.06,1,4.0
+ORD10336,2025-10-03,North,Furniture,Returning,Debit Card,5,3520.84,0.1,15843.78,8,3.1
+ORD10337,2025-12-23,West,Clothing,New,UPI,5,4604.15,0.15,19567.64,7,2.5
+ORD10338,2025-06-21,East,Furniture,New,Debit Card,2,13125.89,0.1,23626.6,4,3.9
+ORD10339,2025-07-20,South,Office Supplies,Returning,UPI,5,3560.35,0.0,17801.75,3,3.1
+ORD10340,2025-11-20,North,Office Supplies,New,UPI,5,2718.02,0.15,11551.58,5,1.2
+ORD10341,2025-02-04,South,Electronics,New,UPI,3,24700.47,0.0,75301.41,5,4.2
+ORD10342,2025-08-04,South,Office Supplies,Returning,Credit Card,3,2205.02,0.1,5953.55,5,2.9
+ORD10343,2025-03-06,North,Electronics,Returning,Cash,6,14450.48,0.15,74897.45,3,4.3
+ORD10344,2025-01-08,South,Clothing,Returning,Debit Card,2,4013.44,0.0,8026.88,6,4.3
+ORD10345,2025-10-28,South,Electronics,Returning,Debit Card,1,6037.36,0.05,6935.49,4,4.0
+ORD10346,2025-12-09,East,Furniture,New,Credit Card,7,24084.02,0.2,134870.51,6,5.0
+ORD10347,2025-11-28,East,Electronics,New,UPI,2,32376.96,0.1,59478.53,3,3.7
+ORD10348,2025-03-17,North,Clothing,New,UPI,2,7634.0,0.05,14504.6,9,3.6
+ORD10349,2025-06-23,South,Office Supplies,Returning,Cash,4,1210.96,0.15,4117.26,6,4.3
+ORD10350,2025-02-16,East,Office Supplies,Returning,UPI,6,4408.77,0.1,23807.36,10,3.8
+ORD10351,2025-01-15,South,Electronics,New,Cash,4,36548.52,0.1,132774.67,6,4.7
+ORD10352,2025-12-27,West,Office Supplies,Returning,Credit Card,2,3418.05,0.25,5127.08,3,2.8
+ORD10353,2025-05-27,East,Electronics,Returning,Credit Card,2,28426.29,0.15,49524.69,6,2.8
+ORD10354,2025-01-26,North,Clothing,Returning,Debit Card,2,2737.43,0.05,5201.12,6,4.4
+ORD10355,2025-11-04,North,Electronics,Returning,Credit Card,5,36885.36,0.15,157962.78,5,2.9
+ORD10356,2025-04-03,East,Electronics,New,Cash,7,22966.98,0.2,129815.09,6,4.3
+ORD10357,2025-08-20,North,Electronics,Returning,Cash,7,3933.41,0.0,28733.87,6,4.1
+ORD10358,2025-01-21,East,Furniture,Returning,Credit Card,4,8646.14,0.05,32855.33,3,3.2
+ORD10359,2025-11-03,West,Office Supplies,Returning,UPI,2,4682.96,0.05,8897.62,3,4.1
+ORD10360,2025-02-07,East,Electronics,Returning,Credit Card,7,38400.07,0.15,229680.42,3,2.8
+ORD10361,2025-10-03,South,Clothing,Returning,Cash,3,7860.67,0.1,21223.81,5,3.0
+ORD10362,2025-06-06,East,Furniture,Returning,UPI,7,16146.24,0.1,101721.31,4,3.6
+ORD10363,2025-06-28,South,Office Supplies,New,Credit Card,6,1312.8,0.2,6301.44,3,3.9
+ORD10364,2025-05-12,East,Furniture,Returning,Debit Card,6,5075.0,0.15,25882.5,6,3.6
+ORD10365,2025-11-07,West,Furniture,Returning,Debit Card,7,5648.56,0.0,39539.92,5,4.1
+ORD10366,2025-12-14,South,Office Supplies,Returning,UPI,3,197.0,0.05,561.45,5,4.1
+ORD10367,2025-01-28,West,Electronics,New,Debit Card,6,18068.15,0.1,98768.01,4,5.0
+ORD10368,2025-09-17,West,Electronics,New,Cash,5,9261.1,0.05,45190.22,4,3.7
+ORD10369,2025-03-17,North,Clothing,New,UPI,7,3469.75,0.15,20645.01,3,4.8
+ORD10370,2025-03-08,North,Clothing,Returning,UPI,5,7499.46,0.2,29997.84,6,4.5
+ORD10371,2025-12-08,North,Furniture,Returning,Cash,7,11446.86,0.05,76121.62,3,5.0
+ORD10372,2025-07-13,North,Electronics,New,UPI,1,39606.91,0.1,36846.22,5,3.7
+ORD10373,2025-06-11,North,Office Supplies,Returning,Cash,1,3066.97,0.15,2606.92,7,3.5
+ORD10374,2025-12-13,East,Furniture,Returning,Credit Card,1,7081.73,0.1,6373.56,4,4.8
+ORD10375,2025-12-27,North,Electronics,Returning,UPI,6,16528.78,0.0,100372.68,6,4.1
+ORD10376,2025-09-14,South,Electronics,Returning,Cash,5,4509.24,0.1,21491.58,6,4.8
+ORD10377,2025-03-13,West,Office Supplies,Returning,Credit Card,5,1733.97,0.0,8669.85,5,4.4
+ORD10378,2025-03-28,North,Office Supplies,Returning,Credit Card,5,3419.95,0.2,13679.8,5,2.1
+ORD10379,2025-09-19,West,Electronics,New,UPI,3,3987.31,0.0,13161.93,4,4.1
+ORD10380,2025-08-02,North,Electronics,Returning,Credit Card,5,9878.74,0.1,45654.33,5,4.0
+ORD10381,2025-06-02,North,Electronics,Returning,UPI,3,17659.69,0.1,48881.16,4,3.9
+ORD10382,2025-07-29,East,Office Supplies,Returning,Credit Card,1,4912.04,0.25,3684.03,5,3.7
+ORD10383,2025-03-02,East,Electronics,Returning,Cash,1,35490.89,0.0,36690.89,3,2.5
+ORD10384,2025-09-25,West,Electronics,Returning,UPI,6,33220.11,0.0,200520.66,6,4.5
+ORD10385,2025-09-19,West,Clothing,New,Debit Card,7,1194.67,0.0,8362.69,1,4.1
+ORD10386,2025-08-06,West,Electronics,Returning,UPI,1,35320.02,0.0,36520.02,5,4.7
+ORD10387,2025-10-10,North,Office Supplies,New,Debit Card,7,3947.82,0.05,26253.0,5,2.6
+ORD10388,2025-05-16,North,Electronics,New,UPI,7,27368.74,0.1,173623.06,5,4.2
+ORD10389,2025-12-28,West,Electronics,Returning,Cash,6,44573.99,0.05,255271.74,6,3.6
+ORD10390,2025-04-03,West,Electronics,Returning,Credit Card,2,15176.22,0.0,31552.44,4,3.9
+ORD10391,2025-04-19,West,Office Supplies,New,UPI,2,4712.23,0.15,8010.79,5,3.6
+ORD10392,2025-08-29,South,Clothing,New,UPI,4,7343.43,0.05,27905.03,1,4.2
+ORD10393,2025-12-21,South,Clothing,Returning,UPI,6,388.4,0.05,2213.88,4,3.7
+ORD10394,2025-05-22,West,Furniture,New,Credit Card,4,11912.77,0.05,45268.53,6,3.0
+ORD10395,2025-10-18,South,Office Supplies,Returning,UPI,4,4887.81,0.25,14663.43,2,3.9
+ORD10396,2025-08-25,West,Electronics,Returning,Debit Card,2,5357.96,0.0,11915.92,5,3.6
+ORD10397,2025-12-06,West,Furniture,Returning,Credit Card,6,14237.28,0.2,68338.94,3,3.7
+ORD10398,2025-11-08,South,Clothing,New,UPI,2,7837.97,0.15,13324.55,4,1.2
+ORD10399,2025-06-26,West,Electronics,New,Credit Card,4,25352.9,0.0,102611.6,3,4.3
+ORD10400,2025-05-21,West,Electronics,Returning,Debit Card,6,9189.84,0.25,42554.28,2,3.5
+ORD10401,2025-07-08,North,Electronics,Returning,UPI,4,26532.5,0.05,102023.5,5,2.7
+ORD10402,2025-02-18,West,Electronics,New,UPI,5,9836.27,0.0,50381.35,4,4.5
+ORD10403,2025-10-29,South,Electronics,Returning,UPI,7,23770.93,0.15,142637.03,6,4.3
+ORD10404,2025-07-09,West,Office Supplies,New,Debit Card,6,462.81,0.15,2360.33,6,3.5
+ORD10405,2025-05-16,South,Furniture,Returning,Debit Card,6,15610.49,0.1,84296.65,7,2.9
+ORD10406,2025-02-12,West,Clothing,New,Credit Card,7,4279.28,0.0,29954.96,5,3.9
+ORD10407,2025-12-19,South,Clothing,Returning,Debit Card,4,5999.24,0.1,21597.26,7,3.9
+ORD10408,2025-03-31,North,Furniture,New,Debit Card,5,16210.67,0.15,68895.35,3,4.5
+ORD10409,2025-10-22,West,Electronics,New,Credit Card,3,25092.6,0.05,72713.91,6,3.4
+ORD10410,2025-12-07,North,Furniture,New,Cash,7,17616.74,0.05,117151.32,5,4.8
+ORD10411,2025-09-02,South,Office Supplies,New,UPI,2,805.32,0.0,1610.64,5,3.4
+ORD10412,2025-07-11,West,Electronics,Returning,UPI,4,27114.9,0.0,109659.6,5,2.7
+ORD10413,2025-11-14,West,Office Supplies,Returning,UPI,7,943.34,0.2,5282.7,3,2.9
+ORD10414,2025-04-16,East,Furniture,New,UPI,7,23227.43,0.1,146332.81,2,3.8
+ORD10415,2025-12-29,East,Office Supplies,Returning,Credit Card,6,434.84,0.25,1956.78,8,3.7
+ORD10416,2025-11-06,South,Furniture,Returning,Cash,2,11442.92,0.05,21741.55,4,4.1
+ORD10417,2025-08-21,North,Furniture,Returning,UPI,2,17759.98,0.15,30191.97,4,3.7
+ORD10418,2025-09-22,South,Clothing,Returning,UPI,2,3826.77,0.05,7270.86,3,4.6
+ORD10419,2025-12-10,East,Clothing,New,Credit Card,7,1009.13,0.05,6710.71,2,3.6
+ORD10420,2025-02-06,West,Electronics,New,Cash,3,25259.35,0.0,76978.05,4,2.2
+ORD10421,2025-11-01,West,Clothing,Returning,UPI,1,5240.57,0.05,4978.54,4,3.7
+ORD10422,2025-02-10,West,Furniture,New,Credit Card,4,17950.26,0.1,64620.94,5,2.2
+ORD10423,2025-01-17,North,Clothing,Returning,UPI,1,3174.1,0.25,2380.57,5,4.0
+ORD10424,2025-12-10,South,Clothing,New,UPI,7,4640.18,0.15,27609.07,9,4.6
+ORD10425,2025-10-04,North,Furniture,Returning,Cash,1,11926.34,0.0,11926.34,4,3.0
+ORD10426,2025-11-03,East,Electronics,New,Cash,7,30504.88,0.0,214734.16,7,4.9
+ORD10427,2025-02-28,South,Electronics,Returning,UPI,1,26593.22,0.0,27793.22,7,4.5
+ORD10428,2025-07-02,West,Office Supplies,Returning,Cash,2,2676.21,0.1,4817.18,6,4.8
+ORD10429,2025-02-10,South,Office Supplies,Returning,Debit Card,5,1322.67,0.15,5621.35,4,4.0
+ORD10430,2025-02-08,North,Electronics,New,Cash,2,889.22,0.2,2622.75,2,3.0
+ORD10431,2025-07-11,North,Electronics,Returning,Credit Card,2,8494.41,0.0,18188.82,5,4.4
+ORD10432,2025-09-24,West,Clothing,Returning,Credit Card,6,1201.41,0.1,6487.61,6,3.3
+ORD10433,2025-05-27,East,Clothing,Returning,Credit Card,6,3757.95,0.1,20292.93,8,3.9
+ORD10434,2025-11-29,North,Office Supplies,Returning,Debit Card,1,3100.06,0.15,2635.05,3,3.7
+ORD10435,2025-05-07,North,Electronics,Returning,UPI,7,10218.36,0.1,65575.67,4,4.7
+ORD10436,2025-02-15,East,Electronics,Returning,UPI,2,42306.32,0.15,73120.74,3,4.4
+ORD10437,2025-02-14,North,Electronics,New,UPI,1,1095.35,0.15,2131.05,3,3.7
+ORD10438,2025-01-01,West,Clothing,Returning,Debit Card,6,6246.72,0.0,37480.32,6,2.2
+ORD10439,2025-06-17,East,Electronics,Returning,UPI,5,28434.05,0.15,122044.71,3,3.3
+ORD10440,2025-04-18,North,Office Supplies,New,Debit Card,4,1930.42,0.0,7721.68,3,4.4
+ORD10441,2025-01-19,North,Electronics,New,Cash,1,3031.61,0.15,3776.87,6,
+ORD10442,2025-11-28,West,Office Supplies,New,UPI,5,3174.68,0.1,14286.06,5,2.6
+ORD10443,2025-03-13,South,Office Supplies,Returning,Debit Card,4,1989.51,0.1,7162.24,5,2.4
+ORD10444,2025-04-19,South,Clothing,Returning,Credit Card,3,7509.26,0.2,18022.22,3,4.0
+ORD10445,2025-09-25,West,Electronics,Returning,Cash,1,24755.96,0.2,21004.77,7,3.0
+ORD10446,2025-08-28,West,Electronics,Returning,UPI,1,42332.6,0.15,37182.71,5,3.0
+ORD10447,2025-10-28,West,Electronics,Returning,Debit Card,3,10545.38,0.1,29672.53,9,4.3
+ORD10448,2025-03-31,West,Clothing,New,Debit Card,3,5888.09,0.15,15014.63,5,4.8
+ORD10449,2025-04-13,South,Clothing,New,Cash,1,5052.82,0.1,4547.54,1,3.2
+ORD10450,2025-09-07,North,Office Supplies,Returning,Debit Card,3,3723.1,0.2,8935.44,1,3.8
+ORD10451,2025-01-08,West,Office Supplies,New,Credit Card,2,1151.87,0.1,2073.37,6,3.7
+ORD10452,2025-06-02,East,Office Supplies,New,Credit Card,4,3358.47,0.25,10075.41,7,3.7
+ORD10453,2025-12-13,South,Electronics,Returning,Cash,4,22813.39,0.2,74202.85,3,3.8
+ORD10454,2025-06-23,West,Clothing,Returning,Credit Card,4,6019.75,0.15,20467.15,8,4.4
+ORD10455,2025-12-09,North,Furniture,Returning,UPI,2,8983.66,0.05,17068.95,7,3.3
+ORD10456,2025-06-07,South,Furniture,Returning,Cash,7,22383.36,0.0,156683.52,5,2.6
+ORD10457,2025-08-03,North,Office Supplies,Returning,Debit Card,3,513.08,0.2,1231.39,5,5.0
+ORD10458,2025-06-26,South,Electronics,Returning,Debit Card,5,36477.77,0.0,183588.85,6,4.7
+ORD10459,2025-06-24,North,Electronics,Returning,UPI,3,38870.33,0.2,94488.79,8,2.9
+ORD10460,2025-12-06,North,Office Supplies,Returning,Debit Card,1,4104.54,0.1,3694.09,6,3.9
+ORD10461,2025-12-04,North,Electronics,New,Credit Card,6,23462.51,0.1,127897.55,5,4.6
+ORD10462,2025-05-26,East,Office Supplies,New,Debit Card,4,2248.09,0.2,7193.89,6,4.4
+ORD10463,2025-11-20,West,Electronics,Returning,UPI,3,44834.79,0.1,122253.93,5,4.2
+ORD10464,2025-06-10,East,Furniture,New,Debit Card,5,6654.29,0.1,29944.3,6,3.7
+ORD10465,2025-05-07,West,Furniture,Returning,Cash,1,14215.65,0.1,12794.08,2,5.0
+ORD10466,2025-03-23,South,Furniture,Returning,UPI,2,17162.08,0.05,32607.95,5,4.0
+ORD10467,2025-05-27,North,Office Supplies,New,Cash,7,3534.25,0.15,21028.79,5,3.4
+ORD10468,2025-08-27,West,Furniture,New,Credit Card,2,6055.79,0.05,11506.0,4,4.5
+ORD10469,2025-03-25,North,Office Supplies,New,Cash,5,3304.57,0.2,13218.28,6,3.9
+ORD10470,2025-04-23,West,Furniture,New,Debit Card,1,20677.2,0.2,16541.76,8,4.1
+ORD10471,2025-08-13,North,Office Supplies,New,Credit Card,4,345.09,0.05,1311.34,5,4.0
+ORD10472,2025-11-28,West,Clothing,Returning,,3,7318.71,0.15,18662.71,6,4.2
+ORD10473,2025-08-31,North,Office Supplies,New,Cash,1,244.57,0.1,220.11,7,3.0
+ORD10474,2025-05-23,West,Electronics,Returning,Credit Card,7,16533.92,0.05,111150.57,5,2.6
+ORD10475,2025-02-10,South,Electronics,New,UPI,2,1498.94,0.25,3448.41,3,4.9
+ORD10476,2025-09-15,West,Electronics,Returning,Debit Card,7,4209.82,0.0,30668.74,6,4.0
+ORD10477,2025-10-12,North,Office Supplies,New,Debit Card,7,4564.72,0.05,30355.39,1,4.4
+ORD10478,2025-04-15,East,Electronics,Returning,Debit Card,5,16484.85,0.1,75381.82,1,2.4
+ORD10479,2025-07-21,West,Furniture,Returning,Debit Card,5,11309.56,0.1,50893.02,5,4.7
+ORD10480,2025-11-03,South,Office Supplies,Returning,Credit Card,3,1155.19,0.1,3119.01,1,3.4
+ORD10481,2025-11-27,East,Furniture,New,Debit Card,5,15410.88,0.15,65496.24,2,3.2
+ORD10482,2025-09-23,East,Clothing,Returning,UPI,5,4879.98,0.1,21959.91,4,3.7
+ORD10483,2025-07-29,South,Electronics,Returning,Credit Card,1,17251.26,0.1,16726.13,3,3.0
+ORD10484,2025-02-20,East,Electronics,Returning,UPI,4,15520.14,0.0,63280.56,4,3.8
+ORD10485,2025-04-28,East,Office Supplies,New,UPI,3,4436.33,0.05,12643.54,7,3.7
+ORD10486,2025-07-20,West,Furniture,New,UPI,1,10322.16,0.05,9806.05,5,4.6
+ORD10487,2025-02-08,North,Office Supplies,Returning,Credit Card,4,2518.15,0.05,9568.97,3,5.0
+ORD10488,2025-01-28,North,Furniture,Returning,Debit Card,7,7942.65,0.1,50038.7,7,5.0
+ORD10489,2025-09-16,West,Electronics,Returning,Credit Card,1,35575.21,0.0,36775.21,2,2.0
+ORD10490,2025-03-25,West,Clothing,Returning,Credit Card,6,3360.35,0.05,19154.0,5,3.1
+ORD10491,2025-06-04,South,Clothing,Returning,UPI,1,4254.81,0.05,4042.07,2,2.0
+ORD10492,2025-04-27,East,Office Supplies,New,UPI,5,1341.45,0.2,5365.8,5,2.8
+ORD10493,2025-01-02,North,Electronics,Returning,UPI,4,44454.55,0.2,143454.56,4,3.3
+ORD10494,2025-04-03,North,Office Supplies,New,UPI,3,1528.33,0.1,4126.49,6,4.1
+ORD10495,2025-06-15,South,Furniture,Returning,Credit Card,3,19543.67,0.2,46904.81,6,3.4
+ORD10496,2025-12-16,South,Electronics,Returning,Debit Card,4,19695.31,0.15,68164.05,3,3.4
+ORD10497,2025-10-23,East,Clothing,Returning,Credit Card,5,1887.87,0.1,8495.41,3,3.9
+ORD10498,2025-09-15,North,Electronics,New,Credit Card,2,36147.57,0.0,73495.14,4,2.4
+ORD10499,2025-03-22,West,Clothing,New,UPI,1,2868.77,0.15,2438.45,8,3.1
+ORD10500,2025-09-25,West,Furniture,New,Cash,5,21791.6,0.15,92614.3,7,3.4
+ORD10011,2025-03-11,North,Office Supplies,Returning,UPI,1,2805.14,0.0,2805.14,6,3.9
+ORD10051,2025-07-15,West,Office Supplies,Returning,Cash,7,2048.47,0.05,13622.33,3,3.3

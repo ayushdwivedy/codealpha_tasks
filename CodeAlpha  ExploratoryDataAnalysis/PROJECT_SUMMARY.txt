@@ -1,0 +1,5 @@
+EDA Internship Project
+Title: Exploratory Data Analysis of Retail Sales Data
+
+Main skills:
+Python, Pandas, NumPy, Matplotlib, SciPy, Statistics, Data Cleaning, Data Visualization, Hypothesis Testing

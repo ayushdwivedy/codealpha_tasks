@@ -1,0 +1,13 @@
+Variable,Data_Type,Missing_Values,Unique_Values
+Order_ID,object,0,500
+Order_Date,datetime64[ns],0,270
+Region,object,0,4
+Category,object,0,4
+Customer_Type,object,0,2
+Payment_Method,object,4,4
+Quantity,int64,0,7
+Unit_Price,float64,0,500
+Discount,float64,0,6
+Sales,float64,0,500
+Delivery_Days,int64,0,11
+Customer_Satisfaction,float64,4,34

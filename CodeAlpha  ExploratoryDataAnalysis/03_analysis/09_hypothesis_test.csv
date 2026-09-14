@@ -1,0 +1,2 @@
+Hypothesis,Null_Hypothesis,Alternative_Hypothesis,New_Customer_Mean_Sales,Returning_Customer_Mean_Sales,T_Statistic,P_Value,Significance_Level,Conclusion
+Average Sales: New vs Returning Customers,There is no difference in average sales between the two customer types.,Average sales are different between the two customer types.,45958.98252427184,44664.76206081081,0.2504809223499956,0.8023383713047895,0.05,Fail to reject H0
