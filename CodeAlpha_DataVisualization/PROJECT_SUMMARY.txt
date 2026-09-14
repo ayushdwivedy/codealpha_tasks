@@ -1,0 +1,2 @@
+Retail Sales Data Visualization & Storytelling
+Includes 10 generated graphs + dashboard + processed datasets + report + data story.

@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Region,Category,Product,Customer_Segment,Payment_Method,Quantity,Unit_Price,Discount,Sales,Profit,Customer_Satisfaction
+ORD10088,2025-01-03,South,Electronics,Smartphone,Consumer,Credit Card,6,43204.27,0.2,207380.5,22124.68,4.8
+ORD10155,2025-01-03,West,Office Supplies,File Folder,Consumer,Credit Card,6,1898.11,0.2,9475.38,2618.34,3.9
+ORD10227,2025-01-04,South,Electronics,Smartphone,Consumer,UPI,5,23007.09,0.0,115035.45,19084.36,5.0
+ORD10081,2025-01-05,West,Electronics,Monitor,Consumer,UPI,1,27621.19,0.0,28726.04,2591.01,3.6
+ORD10110,2025-01-05,North,Grocery,Biscuits,Consumer,UPI,2,985.85,0.05,2022.97,445.22,3.7
+ORD10161,2025-01-05,West,Grocery,Biscuits,Consumer,Credit Card,7,1860.6,0.1,12190.63,1710.2,3.7
+ORD10272,2025-01-05,West,Furniture,Table,Corporate,UPI,6,27350.13,0.0,170664.83,31757.36,4.3
+ORD10277,2025-01-07,North,Office Supplies,Stapler,Consumer,UPI,2,4299.2,0.15,7893.33,768.69,4.6
+ORD10267,2025-01-08,South,Office Supplies,File Folder,Corporate,Cash,1,2491.67,0.2,1993.33,466.79,3.9
+ORD10051,2025-01-09,North,Grocery,Rice,Consumer,UPI,2,2433.1,0.05,4992.73,610.84,3.6
+ORD10049,2025-01-09,West,Clothing,Shoes,Consumer,Debit Card,7,367.83,0.05,2543.94,591.17,3.3
+ORD10045,2025-01-09,North,Clothing,Shoes,Corporate,Credit Card,2,3886.26,0.1,7554.88,786.24,4.5
+ORD10099,2025-01-10,West,Clothing,Shoes,Consumer,UPI,2,1350.62,0.0,2809.28,363.92,5.0
+ORD10524,2025-01-10,North,Furniture,Cabinet,Consumer,Cash,4,16208.59,0.15,59517.94,15456.55,4.4
+ORD10169,2025-01-11,South,Office Supplies,Stapler,Consumer,Credit Card,5,2521.9,0.05,11979.04,2914.02,3.6
+ORD10119,2025-01-12,West,Furniture,Office Chair,Small Business,Debit Card,3,13920.82,0.05,41261.3,5981.56,4.6
+ORD10220,2025-01-12,South,Clothing,Jacket,Small Business,UPI,6,4993.35,0.0,29960.12,3879.02,5.0
+ORD10146,2025-01-13,South,Electronics,Laptop,Consumer,UPI,3,47757.95,0.15,121782.77,22476.7,3.3
+ORD10249,2025-01-14,West,Electronics,Monitor,Small Business,Debit Card,2,52404.17,0.0,109000.67,26140.81,3.8
+ORD10131,2025-01-14,East,Grocery,Snacks,Consumer,UPI,6,2049.98,0.0,11192.87,1674.56,3.8
+ORD10490,2025-01-16,West,Clothing,Backpack,Corporate,Credit Card,6,1778.83,0.05,10544.89,2166.86,4.0
+ORD10556,2025-01-16,East,Office Supplies,Stapler,Small Business,UPI,5,694.25,0.1,2842.96,402.54,5.0
+ORD10355,2025-01-17,East,Furniture,Cabinet,Consumer,Credit Card,2,16297.04,0.1,26694.55,3254.44,5.0
+ORD10565,2025-01-17,South,Office Supplies,File Folder,Consumer,UPI,6,3084.53,0.1,16656.48,4126.28,3.8
+ORD10423,2025-01-18,West,Furniture,Office Chair,Consumer,UPI,7,3889.74,0.1,25485.58,6932.07,3.8
+ORD10477,2025-01-18,East,Electronics,Monitor,Consumer,Debit Card,7,63933.27,0.05,386892.18,85452.31,4.5
+ORD10491,2025-01-19,West,Electronics,Monitor,Consumer,UPI,4,24408.38,0.1,91384.97,15757.48,5.0
+ORD10402,2025-01-20,South,Furniture,Office Chair,Small Business,UPI,5,18530.92,0.0,92654.62,17323.72,3.6
+ORD10348,2025-01-20,East,Furniture,Cabinet,Corporate,UPI,5,17813.87,0.0,81053.13,8735.15,2.9
+ORD10150,2025-01-21,South,Clothing,Shoes,Corporate,Cash,4,2022.37,0.1,7280.54,1580.73,3.5
+ORD10368,2025-01-21,North,Clothing,Jeans,Consumer,Credit Card,1,3173.66,0.0,3427.55,546.42,4.7
+ORD10107,2025-01-23,East,Electronics,Headphones,Consumer,UPI,2,1471.28,0.15,2276.08,301.14,4.9
+ORD10128,2025-01-23,North,Clothing,Jacket,Small Business,Cash,2,5053.43,0.05,10369.64,992.23,4.0
+ORD10008,2025-01-24,North,Office Supplies,File Folder,Small Business,Debit Card,6,687.64,0.1,4010.34,331.01,5.0
+ORD10452,2025-01-25,South,Electronics,Smartphone,Consumer,UPI,4,40972.06,0.1,147499.4,31143.39,4.4
+ORD10478,2025-01-25,North,Office Supplies,Notebook,Small Business,UPI,6,459.16,0.1,2677.81,722.26,3.7
+ORD10489,2025-01-25,North,Clothing,Backpack,Consumer,Credit Card,6,488.89,0.0,3168.02,372.2,3.0
+ORD10168,2025-01-25,West,Grocery,Tea,Corporate,Credit Card,5,1865.22,0.0,9699.14,2570.66,4.6
+ORD10482,2025-01-27,South,Clothing,Jeans,Corporate,Cash,1,2625.05,0.05,2493.8,455.25,3.9
+ORD10460,2025-01-28,West,Office Supplies,File Folder,Small Business,UPI,3,2991.81,0.15,7934.29,1543.95,4.1
+ORD10191,2025-01-29,North,Grocery,Snacks,Corporate,Debit Card,5,1315.02,0.1,6390.98,1627.84,4.1
+ORD10029,2025-01-29,North,Clothing,Backpack,Consumer,Credit Card,6,935.4,0.05,5758.33,1360.59,5.0
+ORD10574,2025-01-30,North,Office Supplies,Printer Paper,Corporate,UPI,4,933.94,0.0,4034.64,943.71,4.6
+ORD10246,2025-01-30,North,Furniture,Office Chair,Small Business,Credit Card,7,4874.43,0.0,36850.67,10190.44,4.4
+ORD10059,2025-01-31,South,Electronics,Smartphone,Consumer,UPI,4,54693.38,0.15,185957.51,38676.21,2.8
+ORD10397,2025-01-31,North,Furniture,Office Chair,Corporate,UPI,2,4605.11,0.1,8952.33,2486.45,4.8
+ORD10598,2025-02-01,East,Office Supplies,Notebook,Small Business,Cash,4,4340.95,0.15,13430.91,1980.87,3.5
+ORD10151,2025-02-01,North,Electronics,Monitor,Corporate,UPI,4,44965.44,0.1,174825.61,37106.96,4.7
+ORD10336,2025-02-03,North,Office Supplies,Notebook,Corporate,Credit Card,2,1642.17,0.05,3369.74,925.61,4.4
+ORD10162,2025-02-04,West,Grocery,Cooking Oil,Corporate,Credit Card,4,349.21,0.2,1162.18,275.67,4.7
+ORD10232,2025-02-05,East,Furniture,Desk,Consumer,Credit Card,5,24559.09,0.0,111743.87,26740.56,2.7
+ORD10024,2025-02-05,South,Clothing,T-Shirt,Small Business,Credit Card,6,2732.23,0.05,15573.7,3152.7,3.7
+ORD10157,2025-02-05,North,Furniture,Table,Corporate,Credit Card,3,15464.7,0.0,50105.61,4648.24,4.7
+ORD10464,2025-02-07,North,Electronics,Monitor,Consumer,Credit Card,2,43924.79,0.15,80645.92,8558.93,4.9
+ORD10122,2025-02-08,South,Office Supplies,Stapler,Small Business,Cash,1,4139.24,0.15,3518.36,812.84,3.7
+ORD10104,2025-02-09,West,Grocery,Snacks,Consumer,Credit Card,1,493.45,0.1,461.87,83.56,4.2
+ORD10019,2025-02-09,West,Office Supplies,Stapler,Consumer,Cash,2,3260.79,0.1,6104.19,1359.31,4.8
+ORD10117,2025-02-09,West,Clothing,Jeans,Consumer,UPI,4,6227.78,0.15,22021.44,4367.36,5.0
+ORD10054,2025-02-09,North,Office Supplies,Stapler,Corporate,UPI,1,365.83,0.05,375.34,87.06,3.9
+ORD10503,2025-02-10,North,Furniture,Cabinet,Small Business,Cash,2,11698.33,0.0,25268.4,5100.28,4.8
+ORD10469,2025-02-11,North,Electronics,Headphones,Corporate,Credit Card,2,24224.61,0.0,52325.16,5705.83,3.6
+ORD10205,2025-02-13,East,Grocery,Biscuits,Corporate,UPI,1,1907.57,0.15,1475.51,395.62,4.2
+ORD10171,2025-02-14,North,Furniture,Office Chair,Consumer,Debit Card,1,6421.67,0.1,6241.86,1115.66,4.7
+ORD10595,2025-02-15,South,Clothing,Jeans,Consumer,Cash,1,2042.51,0.15,1736.13,223.04,2.8
+ORD10371,2025-02-15,North,Office Supplies,Stapler,Corporate,Credit Card,7,86.64,0.05,622.25,138.67,3.4
+ORD10596,2025-02-15,South,Electronics,Laptop,Small Business,Debit Card,2,57246.02,0.2,91593.63,21162.36,3.4
+ORD10130,2025-02-16,South,Office Supplies,Pen Set,Corporate,UPI,2,3066.3,0.0,6132.6,585.82,4.9
+ORD10004,2025-02-16,West,Electronics,Smartphone,Corporate,Credit Card,5,30864.16,0.1,144444.27,21308.41,4.9
+ORD10577,2025-02-16,South,Clothing,T-Shirt,Consumer,Debit Card,1,265.98,0.05,252.68,31.71,4.4
+ORD10214,2025-02-16,North,Office Supplies,Notebook,Small Business,UPI,2,4277.24,0.1,8314.96,954.15,4.3
+ORD10261,2025-02-17,West,Clothing,Jacket,Corporate,Cash,2,6514.72,0.05,12873.09,1258.39,4.6
+ORD10268,2025-02-18,South,Electronics,Laptop,Corporate,Debit Card,7,18672.06,0.05,124169.23,13861.86,4.0
+ORD10071,2025-02-18,East,Furniture,Table,Consumer,Credit Card,7,26422.54,0.0,168311.56,17652.31,3.2
+ORD10138,2025-02-19,East,Office Supplies,Notebook,Small Business,UPI,7,3314.7,0.0,21114.66,4730.74,3.7
+ORD10186,2025-02-21,East,Electronics,Laptop,Consumer,Credit Card,3,36900.04,0.1,90663.4,14484.42,3.8
+ORD10165,2025-02-22,West,Electronics,Keyboard,Consumer,Debit Card,5,40920.43,0.05,202146.91,54657.76,3.4
+ORD10378,2025-02-23,South,Office Supplies,Printer Paper,Consumer,UPI,5,4232.8,0.05,20105.78,2938.22,4.2
+ORD10017,2025-02-23,West,Office Supplies,Stapler,Corporate,Cash,2,1610.81,0.0,3350.49,452.88,5.0
+ORD10403,2025-02-24,West,Electronics,Keyboard,Small Business,UPI,2,20139.83,0.2,33512.68,6842.25,4.2
+ORD10383,2025-02-26,South,Office Supplies,Pen Set,Consumer,UPI,7,1214.32,0.2,6800.18,1642.68,4.0
+ORD10361,2025-02-26,South,Furniture,Bookshelf,Consumer,UPI,5,20933.08,0.0,104665.4,20608.0,3.9
+ORD10177,2025-02-26,East,Furniture,Table,Consumer,UPI,6,8678.7,0.0,47385.73,7836.26,5.0
+ORD10570,2025-02-26,North,Electronics,Laptop,Corporate,UPI,7,17490.69,0.05,125618.12,27672.85,5.0
+ORD10313,2025-02-27,East,Electronics,Monitor,Consumer,Credit Card,3,4324.03,0.0,11804.59,959.54,3.9
+ORD10600,2025-02-28,South,Furniture,Desk,Consumer,Debit Card,5,17130.76,0.2,68523.03,12768.92,3.5
+ORD10559,2025-03-01,West,Clothing,Shoes,Consumer,Debit Card,1,6856.07,0.0,7130.31,883.21,3.6
+ORD10195,2025-03-01,East,Electronics,Smartphone,Consumer,UPI,3,4093.24,0.0,11174.55,2351.15,3.7
+ORD10038,2025-03-01,West,Electronics,Smartphone,Corporate,Credit Card,5,19510.53,0.0,101454.76,15881.4,4.5
+ORD10284,2025-03-01,South,Clothing,Jeans,Corporate,Credit Card,5,5995.84,0.05,28480.24,4001.26,4.4
+ORD10585,2025-03-02,East,Furniture,Office Chair,Consumer,Debit Card,6,1518.77,0.2,6634.01,635.73,4.0
+ORD10278,2025-03-02,West,Grocery,Rice,Corporate,UPI,6,2127.36,0.0,13274.74,2407.64,3.3
+ORD10039,2025-03-03,North,Office Supplies,Pen Set,Small Business,Debit Card,4,2271.95,0.15,8342.61,1963.11,4.4
+ORD10217,2025-03-03,East,Office Supplies,File Folder,Consumer,UPI,2,3035.08,0.05,5247.66,1087.63,4.1
+ORD10123,2025-03-03,South,Clothing,T-Shirt,Consumer,Credit Card,1,6680.85,0.15,5678.72,896.82,3.8
+ORD10237,2025-03-03,West,Furniture,Bookshelf,Corporate,Debit Card,7,23573.89,0.0,171617.95,22602.9,5.0
+ORD10083,2025-03-03,West,Clothing,Jeans,Consumer,Credit Card,4,5039.2,0.05,19914.93,5062.51,5.0
+ORD10475,2025-03-06,North,Electronics,Monitor,Consumer,UPI,4,57470.22,0.05,235857.79,45882.48,3.9
+ORD10236,2025-03-06,West,Electronics,Headphones,Consumer,Credit Card,2,17541.77,0.15,31013.86,7909.51,4.5
+ORD10091,2025-03-06,East,Office Supplies,Pen Set,Corporate,UPI,2,2161.1,0.15,3343.22,319.73,3.8
+ORD10573,2025-03-07,South,Electronics,Laptop,Consumer,Credit Card,7,44490.84,0.05,295864.11,24841.28,4.4
+ORD10538,2025-03-08,North,Electronics,Keyboard,Corporate,Credit Card,6,21488.94,0.05,132285.89,29388.07,5.0
+ORD10204,2025-03-08,North,Electronics,Laptop,Consumer,Debit Card,6,38664.57,0.15,212964.44,30201.55,3.6
+ORD10042,2025-03-09,West,Electronics,Smartphone,Consumer,Credit Card,4,58979.74,0.0,245355.72,31235.48,4.3
+ORD10517,2025-03-10,South,Clothing,Jeans,Small Business,Credit Card,3,4878.4,0.05,13903.43,1828.11,4.6
+ORD10344,2025-03-11,West,Furniture,Cabinet,Small Business,Credit Card,3,25305.49,0.1,71057.8,7387.37,3.6
+ORD10358,2025-03-11,West,Electronics,Headphones,Corporate,Credit Card,1,52389.61,0.05,51760.93,9192.27,4.5
+ORD10096,2025-03-11,West,Electronics,Laptop,Corporate,Debit Card,2,23946.76,0.0,49809.27,12192.25,3.0
+ORD10211,2025-03-13,East,Furniture,Cabinet,Small Business,Debit Card,7,25470.55,0.15,137910.3,37706.05,4.0
+ORD10385,2025-03-14,North,Grocery,Cooking Oil,Corporate,Credit Card,5,1814.51,0.0,9798.37,976.72,3.5
+ORD10424,2025-03-14,North,Office Supplies,File Folder,Small Business,UPI,2,1137.17,0.05,2333.47,572.25,3.0
+ORD10061,2025-03-15,West,Office Supplies,Stapler,Corporate,Credit Card,4,1614.51,0.05,6380.53,1776.14,4.3
+ORD10398,2025-03-15,North,Grocery,Rice,Consumer,UPI,4,843.02,0.1,3277.67,839.81,4.8
+ORD10479,2025-03-15,West,Office Supplies,Notebook,Corporate,Cash,6,3892.31,0.0,24288.0,6572.74,4.4
+ORD10257,2025-03-16,North,Office Supplies,File Folder,Consumer,Credit Card,2,545.8,0.0,1178.93,174.68,1.9
+ORD10528,2025-03-17,North,Clothing,Jacket,Small Business,UPI,5,2754.25,0.05,14129.33,1513.78,3.5
+ORD10121,2025-03-17,West,Office Supplies,Printer Paper,Corporate,Credit Card,7,1477.71,0.15,9144.07,1102.7,4.5
+ORD10170,2025-03-18,North,Electronics,Keyboard,Consumer,Credit Card,1,14003.25,0.05,14367.33,2879.94,3.8
+ORD10590,2025-03-18,West,Electronics,Laptop,Small Business,Cash,3,2242.31,0.15,5946.61,1476.13,3.4
+ORD10208,2025-03-19,South,Clothing,Jeans,Small Business,Debit Card,7,5523.43,0.05,36730.79,9634.26,4.8
+ORD10079,2025-03-19,East,Clothing,Shoes,Corporate,UPI,1,421.67,0.1,345.35,30.87,4.2
+ORD10421,2025-03-20,North,Furniture,Cabinet,Consumer,UPI,1,10656.27,0.0,11508.77,1339.97,3.0
+ORD10098,2025-03-20,South,Clothing,T-Shirt,Consumer,Credit Card,7,5143.35,0.2,28802.75,2350.53,3.0
+ORD10331,2025-03-21,South,Furniture,Desk,Consumer,Credit Card,7,24988.3,0.0,174918.09,47391.15,3.8
+ORD10352,2025-03-22,North,Clothing,Jeans,Corporate,Credit Card,2,883.18,0.05,1812.28,468.53,4.6
+ORD10583,2025-03-22,West,Electronics,Headphones,Consumer,Credit Card,1,45598.85,0.2,37938.24,5192.91,4.1
+ORD10301,2025-03-22,North,Clothing,T-Shirt,Consumer,Cash,2,4006.69,0.1,7789.01,1063.44,4.9
+ORD10376,2025-03-22,West,Office Supplies,Printer Paper,Corporate,Debit Card,3,3272.54,0.05,9699.82,1484.55,3.1
+ORD10481,2025-03-24,West,Clothing,Shoes,Small Business,Cash,7,434.64,0.15,2689.58,360.23,3.7
+ORD10467,2025-03-24,West,Office Supplies,Notebook,Corporate,Debit Card,4,2458.77,0.15,8694.22,1751.54,3.5
+ORD10419,2025-03-25,West,Electronics,Keyboard,Consumer,Credit Card,7,34364.89,0.1,225158.77,45997.96,3.9
+ORD10592,2025-03-25,North,Office Supplies,File Folder,Consumer,Credit Card,4,1026.78,0.15,3770.33,506.82,3.6
+ORD10417,2025-03-26,West,Electronics,Monitor,Corporate,Debit Card,5,45584.07,0.2,189629.74,17831.44,4.2
+ORD10144,2025-03-27,East,Electronics,Laptop,Consumer,Debit Card,6,49167.33,0.1,241608.28,33230.04,3.8
+ORD10501,2025-03-27,West,Electronics,Laptop,Small Business,UPI,4,46621.35,0.1,174550.33,14804.96,3.7
+ORD10022,2025-03-27,South,Office Supplies,Pen Set,Small Business,Debit Card,7,1896.98,0.05,12614.89,3288.06,3.4
+ORD10542,2025-03-28,East,Electronics,Smartphone,Consumer,Cash,6,64965.21,0.05,336974.54,78131.71,3.9
+ORD10199,2025-03-29,West,Grocery,Tea,Corporate,Credit Card,2,1718.27,0.0,3574.0,639.85,3.5
+ORD10248,2025-03-30,North,Clothing,Jeans,Consumer,Credit Card,5,785.94,0.1,3819.68,751.36,4.5
+ORD10569,2025-03-30,North,Furniture,Bookshelf,Small Business,Debit Card,2,25617.56,0.1,49800.54,12709.31,3.5
+ORD10050,2025-03-31,West,Grocery,Biscuits,Consumer,UPI,3,1132.43,0.0,3533.19,822.24,4.7
+ORD10560,2025-04-02,North,Grocery,Tea,Consumer,Cash,5,1002.53,0.2,4330.92,492.42,5.0
+ORD10189,2025-04-02,North,Electronics,Monitor,Corporate,Cash,1,28622.91,0.0,30912.75,5957.78,2.9
+ORD10058,2025-04-03,East,Grocery,Tea,Consumer,UPI,7,1158.91,0.0,7382.28,1617.33,3.4
+ORD10312,2025-04-04,South,Electronics,Headphones,Small Business,Cash,2,41075.7,0.2,65721.13,16663.61,4.0
+ORD10472,2025-04-04,North,Grocery,Snacks,Consumer,Debit Card,1,426.93,0.1,414.97,56.5,3.3
+ORD10510,2025-04-05,North,Clothing,Jacket,Consumer,UPI,5,4346.45,0.05,22297.29,2595.31,3.3
+ORD10126,2025-04-05,West,Grocery,Cooking Oil,Corporate,UPI,4,1405.66,0.15,4970.42,1332.32,4.1
+ORD10253,2025-04-05,East,Office Supplies,File Folder,Consumer,Credit Card,7,3410.83,0.05,20640.62,4962.34,3.4
+ORD10082,2025-04-05,East,Furniture,Office Chair,Corporate,UPI,6,10347.27,0.0,56496.12,8350.07,3.8
+ORD10453,2025-04-06,West,Furniture,Bookshelf,Consumer,Debit Card,7,21431.54,0.1,140419.45,33046.78,2.5
+ORD10575,2025-04-07,North,Grocery,Cooking Oil,Corporate,Credit Card,3,342.97,0.05,1055.66,107.76,4.2
+ORD10213,2025-04-07,South,Grocery,Cooking Oil,Corporate,Debit Card,2,875.56,0.15,1488.45,216.48,5.0
+ORD10404,2025-04-08,South,Clothing,T-Shirt,Small Business,Credit Card,4,6286.79,0.05,23889.82,5349.18,2.6
+ORD10256,2025-04-08,East,Electronics,Keyboard,Small Business,UPI,6,9126.09,0.05,47337.01,7776.6,2.9
+ORD10143,2025-04-10,South,Furniture,Table,Consumer,UPI,1,11740.56,0.15,9979.48,2372.06,3.3
+ORD10090,2025-04-10,North,Grocery,Cooking Oil,Small Business,Credit Card,5,1928.17,0.1,9370.93,1313.95,3.7
+ORD10100,2025-04-10,West,Grocery,Biscuits,Consumer,Cash,3,181.9,0.15,482.39,112.36,4.6
+ORD10068,2025-04-12,West,Clothing,Jacket,Consumer,UPI,1,424.59,0.05,419.5,35.49,4.3
+ORD10567,2025-04-13,South,Furniture,Desk,Consumer,UPI,2,11974.94,0.15,20357.39,5126.11,4.4
+ORD10389,2025-04-13,West,Furniture,Cabinet,Small Business,Debit Card,2,15517.54,0.05,30662.66,3495.72,5.0
+ORD10007,2025-04-13,South,Clothing,Backpack,Corporate,Cash,2,3815.17,0.1,6867.31,1554.12,3.0
+ORD10105,2025-04-15,East,Grocery,Biscuits,Small Business,Debit Card,3,1756.42,0.1,4315.52,983.71,3.9
+ORD10112,2025-04-15,South,Office Supplies,Printer Paper,Small Business,UPI,1,4429.24,0.1,3986.32,522.44,4.5
+ORD10483,2025-04-16,East,Grocery,Rice,Corporate,UPI,3,990.06,0.0,2702.87,308.09,4.4
+ORD10466,2025-04-17,North,Electronics,Monitor,Small Business,Debit Card,1,17813.94,0.05,18277.1,5018.17,4.0
+ORD10097,2025-04-17,South,Grocery,Tea,Consumer,Debit Card,7,1290.1,0.0,9030.67,1099.29,4.7
+ORD10229,2025-04-18,West,Electronics,Headphones,Corporate,Debit Card,4,56923.01,0.0,236799.73,55746.5,3.9
+ORD10016,2025-04-19,South,Clothing,Jeans,Consumer,UPI,6,2114.19,0.0,12685.11,3341.81,3.9
+ORD10394,2025-04-19,North,Office Supplies,Printer Paper,Corporate,Credit Card,1,268.51,0.15,246.49,47.43,2.9
+ORD10350,2025-04-20,North,Office Supplies,Pen Set,Consumer,Credit Card,7,3263.05,0.0,24668.63,4737.79,3.6
+ORD10223,2025-04-21,South,Grocery,Tea,Corporate,UPI,4,1221.0,0.0,4884.0,448.09,3.6
+ORD10282,2025-04-21,South,Clothing,Shoes,Small Business,Credit Card,2,5107.25,0.1,9193.05,1990.02,3.4
+ORD10476,2025-04-22,East,Furniture,Cabinet,Corporate,UPI,6,5713.89,0.15,26518.15,7277.79,4.7
+ORD10118,2025-04-22,West,Electronics,Laptop,Corporate,Cash,7,29161.85,0.0,212298.3,42570.72,4.4
+ORD10426,2025-04-23,North,Electronics,Keyboard,Consumer,UPI,6,29824.3,0.0,193261.49,28814.25,3.4
+ORD10269,2025-04-24,South,Clothing,Jacket,Consumer,Credit Card,1,1045.52,0.1,940.97,180.88,4.2
+ORD10080,2025-04-25,West,Furniture,Bookshelf,Consumer,Debit Card,4,12786.75,0.05,50533.25,9828.89,3.7
+ORD10030,2025-04-27,West,Furniture,Desk,Corporate,Debit Card,7,7407.81,0.1,48535.96,8739.81,3.4
+ORD10113,2025-04-28,West,Furniture,Bookshelf,Corporate,UPI,3,25658.07,0.2,64042.55,16061.18,4.5
+ORD10566,2025-04-29,South,Furniture,Bookshelf,Consumer,Credit Card,7,17662.28,0.1,111272.36,13956.52,4.3
+ORD10553,2025-04-29,East,Electronics,Laptop,Consumer,Credit Card,5,15848.28,0.0,72109.66,11565.79,3.1
+ORD10562,2025-04-30,West,Office Supplies,Stapler,Consumer,Cash,6,1937.68,0.05,11486.58,1243.64,3.6
+ORD10462,2025-05-01,East,Office Supplies,Notebook,Consumer,UPI,5,2951.68,0.05,12758.63,2671.13,3.2
+ORD10444,2025-05-01,North,Furniture,Cabinet,Consumer,UPI,7,27400.01,0.0,207144.07,48536.91,3.2
+ORD10066,2025-05-01,East,Electronics,Smartphone,Consumer,UPI,4,2439.76,0.05,8436.67,1181.02,4.8
+ORD10434,2025-05-02,North,Furniture,Desk,Corporate,UPI,7,24119.48,0.15,154991.77,36554.16,4.5
+ORD10055,2025-05-03,South,Office Supplies,Stapler,Corporate,UPI,2,3180.14,0.05,6042.26,1398.0,4.5
+ORD10073,2025-05-03,East,Furniture,Bookshelf,Consumer,Debit Card,4,15550.81,0.15,48114.21,10049.03,3.5
+ORD10492,2025-05-04,North,Grocery,Tea,Consumer,UPI,2,1264.21,0.05,2594.16,699.57,2.9
+ORD10180,2025-05-04,East,Electronics,Keyboard,Corporate,UPI,6,41603.04,0.05,215794.95,53941.37,4.7
+ORD10034,2025-05-06,West,Electronics,Keyboard,Consumer,Debit Card,6,51923.55,0.0,324002.96,56134.99,4.3
+ORD10593,2025-05-06,North,Furniture,Desk,Corporate,Debit Card,5,12518.37,0.05,64219.24,13728.3,3.5
+ORD10194,2025-05-07,South,Clothing,Shoes,Corporate,Credit Card,5,542.26,0.2,2169.03,454.24,3.1
+ORD10219,2025-05-07,North,Grocery,Rice,Consumer,UPI,2,1267.49,0.1,2464.01,526.72,4.9
+ORD10159,2025-05-07,South,Office Supplies,Pen Set,Small Business,Debit Card,7,577.48,0.0,4042.33,1111.08,3.9
+ORD10147,2025-05-07,North,Clothing,Shoes,Corporate,UPI,3,1079.06,0.05,3321.36,740.38,3.0
+ORD10393,2025-05-08,West,Office Supplies,Stapler,Small Business,Debit Card,3,3676.91,0.15,9751.17,1852.55,3.6
+ORD10327,2025-05-09,North,Furniture,Bookshelf,Small Business,Cash,1,20798.33,0.1,20215.98,3722.14,3.1
+ORD10281,2025-05-09,West,Electronics,Monitor,Corporate,Debit Card,6,59110.47,0.05,350406.88,43719.69,3.0
+ORD10360,2025-05-09,North,Furniture,Desk,Small Business,UPI,4,23228.63,0.05,95330.28,20906.88,3.9
+ORD10210,2025-05-11,West,Clothing,Backpack,Corporate,Credit Card,7,5066.23,0.05,35038.05,3470.68,4.2
+ORD10260,2025-05-12,West,Grocery,Biscuits,Corporate,UPI,6,285.29,0.15,1513.18,340.85,4.8
+ORD10036,2025-05-12,South,Electronics,Monitor,Consumer,Cash,6,8064.94,0.05,45970.17,5201.0,3.1
+ORD10240,2025-05-13,East,Office Supplies,File Folder,Corporate,Cash,7,2132.79,0.15,11548.0,1643.72,4.0
+ORD10184,2025-05-14,West,Electronics,Headphones,Consumer,Debit Card,6,15658.5,0.0,97709.06,14928.85,3.2
+ORD10041,2025-05-14,South,Clothing,Backpack,Corporate,UPI,5,5699.66,0.0,28498.28,5601.13,4.4
+ORD10290,2025-05-14,South,Grocery,Tea,Corporate,UPI,4,663.07,0.0,2652.28,602.01,3.8
+ORD10274,2025-05-14,East,Furniture,Cabinet,Consumer,Debit Card,6,21821.87,0.2,95317.94,25144.11,3.3
+ORD10564,2025-05-14,North,Clothing,Jeans,Corporate,UPI,3,4891.46,0.1,14263.49,2918.51,5.0
+ORD10033,2025-05-16,North,Office Supplies,File Folder,Corporate,UPI,5,3568.73,0.05,18307.59,2600.61,4.3
+ORD10495,2025-05-16,West,Grocery,Tea,Consumer,UPI,5,1821.94,0.1,8526.7,1892.82,4.1
+ORD10580,2025-05-17,North,Grocery,Snacks,Corporate,Cash,1,812.05,0.15,745.46,70.3,4.2
+ORD10158,2025-05-17,East,Grocery,Rice,Consumer,Credit Card,6,839.26,0.1,4124.13,637.21,4.0
+ORD10239,2025-05-17,North,Office Supplies,Printer Paper,Corporate,Debit Card,3,414.39,0.1,1208.35,223.11,4.1
+ORD10555,2025-05-18,West,Clothing,Shoes,Consumer,UPI,5,1751.08,0.1,8195.05,1080.91,2.4
+ORD10484,2025-05-18,South,Electronics,Laptop,Consumer,UPI,1,29838.46,0.05,28346.54,7194.53,5.0
+ORD10526,2025-05-19,South,Grocery,Cooking Oil,Corporate,Credit Card,2,1294.62,0.15,2200.85,393.96,3.2
+ORD10218,2025-05-20,South,Electronics,Headphones,Corporate,Debit Card,1,22906.48,0.0,22906.48,3922.63,3.8
+ORD10342,2025-05-20,South,Furniture,Table,Consumer,Debit Card,2,26876.51,0.05,51065.37,12758.02,2.6
+ORD10541,2025-05-21,South,Electronics,Laptop,Consumer,Debit Card,2,24112.05,0.05,45812.9,8967.47,3.1
+ORD10057,2025-05-21,West,Electronics,Headphones,Small Business,Debit Card,3,46755.44,0.0,145876.98,29673.35,3.6
+ORD10035,2025-05-22,North,Office Supplies,Printer Paper,Corporate,UPI,6,2450.87,0.2,12705.31,2286.54,3.7
+ORD10372,2025-05-22,South,Electronics,Smartphone,Consumer,Debit Card,2,55239.44,0.05,104954.93,18336.14,4.1
+ORD10578,2025-05-22,West,Electronics,Smartphone,Consumer,UPI,2,31779.4,0.05,62796.1,13787.78,3.8
+ORD10388,2025-05-22,North,Furniture,Cabinet,Small Business,UPI,3,20163.28,0.0,65329.04,15266.83,4.4
+ORD10405,2025-05-22,East,Office Supplies,Notebook,Consumer,Cash,3,1324.65,0.1,3254.67,349.87,3.8
+ORD10341,2025-05-23,South,Office Supplies,Pen Set,Consumer,Debit Card,6,807.45,0.1,4360.23,924.93,4.3
+ORD10173,2025-05-24,South,Electronics,Keyboard,Small Business,Credit Card,4,36408.83,0.1,131071.8,25583.44,4.2
+ORD10198,2025-05-24,South,Clothing,T-Shirt,Corporate,UPI,1,5874.44,0.0,5874.44,650.03,3.7
+ORD10028,2025-05-24,North,Electronics,Keyboard,Corporate,UPI,1,54527.08,0.1,53000.32,5052.95,5.0
+ORD10188,2025-05-25,North,Furniture,Cabinet,Small Business,Debit Card,3,2890.27,0.0,9364.49,2092.72,3.3
+ORD10160,2025-05-25,West,Grocery,Tea,Consumer,Cash,4,689.6,0.2,2294.98,449.88,4.2
+ORD10293,2025-05-29,West,Furniture,Table,Consumer,UPI,5,12504.05,0.1,58518.94,14764.76,3.3
+ORD10233,2025-05-29,West,Furniture,Office Chair,Consumer,UPI,3,17512.02,0.05,51905.63,12147.49,3.8
+ORD10505,2025-05-29,South,Office Supplies,Printer Paper,Consumer,UPI,7,828.68,0.0,5800.73,628.02,3.4
+ORD10323,2025-05-29,North,Office Supplies,Stapler,Consumer,UPI,2,1649.28,0.15,3028.08,639.37,4.8
+ORD10270,2025-05-30,East,Clothing,Shoes,Small Business,Credit Card,6,5904.18,0.05,30624.96,4814.94,4.5
+ORD10124,2025-05-31,East,Clothing,Jacket,Consumer,UPI,6,3387.32,0.0,18494.75,5028.79,4.8
+ORD10259,2025-06-01,South,Grocery,Biscuits,Small Business,Credit Card,1,311.82,0.2,249.45,64.64,4.3
+ORD10599,2025-06-01,West,Clothing,Shoes,Consumer,Credit Card,7,4560.16,0.0,33197.94,3779.96,3.1
+ORD10557,2025-06-01,West,Office Supplies,File Folder,Small Business,Cash,4,1634.76,0.0,6800.59,1679.27,4.0
+ORD10243,2025-06-02,East,Clothing,T-Shirt,Corporate,Debit Card,4,3470.16,0.15,10736.68,2299.23,5.0
+ORD10212,2025-06-03,North,Electronics,Monitor,Consumer,UPI,1,46972.24,0.05,48193.52,8361.13,4.0
+ORD10446,2025-06-03,East,Electronics,Monitor,Corporate,Cash,2,42172.06,0.15,65240.18,15290.07,5.0
+ORD10154,2025-06-05,East,Clothing,Jacket,Corporate,Credit Card,4,3109.43,0.2,9054.65,1981.31,2.7
+ORD10347,2025-06-06,North,Clothing,Backpack,Consumer,Credit Card,6,6226.99,0.15,34298.28,8091.75,5.0
+ORD10488,2025-06-06,North,Furniture,Office Chair,Corporate,Credit Card,1,24405.16,0.05,25039.69,5546.73,4.4
+ORD10254,2025-06-07,North,Grocery,Rice,Consumer,Credit Card,3,240.99,0.1,702.73,161.77,4.0
+ORD10140,2025-06-07,North,Office Supplies,Pen Set,Corporate,Credit Card,7,876.44,0.1,5963.3,1121.27,5.0
+ORD10367,2025-06-08,North,Electronics,Headphones,Corporate,Debit Card,3,15653.41,0.05,48181.19,8840.66,3.6
+ORD10132,2025-06-08,West,Furniture,Cabinet,Consumer,UPI,6,17134.33,0.0,106918.25,8837.6,2.4
+ORD10427,2025-06-09,West,Furniture,Desk,Corporate,Debit Card,5,9478.06,0.0,49285.92,13323.38,4.5
+ORD10095,2025-06-09,West,Office Supplies,Printer Paper,Consumer,UPI,4,2012.4,0.15,7115.85,824.64,4.3
+ORD10224,2025-06-09,South,Electronics,Laptop,Consumer,Credit Card,1,47190.42,0.05,44830.9,12358.99,3.6
+ORD10280,2025-06-09,East,Office Supplies,File Folder,Consumer,UPI,2,1222.56,0.1,2002.56,262.08,2.7
+ORD10458,2025-06-10,North,Grocery,Biscuits,Consumer,Credit Card,1,2238.26,0.15,2054.72,441.86,4.0
+ORD10286,2025-06-11,South,Electronics,Keyboard,Consumer,Credit Card,6,15858.4,0.0,95150.39,8313.08,4.2
+ORD10432,2025-06-11,South,Clothing,Jacket,Corporate,UPI,5,998.41,0.1,4492.84,443.05,3.4
+ORD10406,2025-06-11,East,Electronics,Smartphone,Consumer,Debit Card,7,32859.11,0.15,177915.66,33529.12,4.2
+ORD10018,2025-06-11,East,Office Supplies,Notebook,Corporate,Credit Card,7,296.28,0.0,1887.3,296.33,4.1
+ORD10329,2025-06-12,North,Electronics,Keyboard,Small Business,UPI,3,7987.46,0.1,23291.44,6197.78,3.3
+ORD10307,2025-06-12,East,Grocery,Biscuits,Consumer,UPI,7,1702.99,0.1,9763.22,1569.91,3.9
+ORD10512,2025-06-13,East,Electronics,Laptop,Small Business,Credit Card,5,58475.53,0.2,212850.92,19376.21,3.5
+ORD10392,2025-06-13,West,Furniture,Bookshelf,Corporate,Credit Card,3,5041.79,0.1,14157.35,3760.94,4.3
+ORD10139,2025-06-14,West,Electronics,Keyboard,Consumer,Credit Card,6,9783.08,0.15,51889.46,9091.79,4.7
+ORD10136,2025-06-14,North,Grocery,Snacks,Small Business,Credit Card,1,1705.84,0.05,1750.19,392.32,4.9
+ORD10594,2025-06-14,North,Grocery,Snacks,Corporate,UPI,4,580.79,0.15,2132.64,393.69,3.5
+ORD10010,2025-06-15,North,Furniture,Table,Small Business,UPI,5,1367.8,0.15,6278.22,667.82,5.0
+ORD10588,2025-06-15,North,Grocery,Snacks,Corporate,Debit Card,5,1240.82,0.1,6030.39,1099.83,5.0
+ORD10465,2025-06-16,South,Clothing,Shoes,Corporate,Credit Card,1,6942.49,0.1,6248.24,1574.92,3.8
+ORD10238,2025-06-17,West,Clothing,Jacket,Small Business,Debit Card,2,4026.5,0.15,7118.85,1784.07,3.7
+ORD10518,2025-06-17,North,Office Supplies,Notebook,Consumer,UPI,1,2417.5,0.0,2610.9,455.97,4.5
+ORD10172,2025-06-17,South,Electronics,Laptop,Consumer,UPI,7,22261.5,0.1,140247.46,20959.81,3.8
+ORD10178,2025-06-18,North,Office Supplies,Printer Paper,Consumer,UPI,2,1510.1,0.0,3261.82,670.22,4.4
+ORD10063,2025-06-18,South,Electronics,Monitor,Small Business,UPI,3,23922.65,0.0,71767.95,16557.09,4.0
+ORD10330,2025-06-19,West,Clothing,Jeans,Corporate,UPI,4,3994.44,0.0,16616.87,3771.12,4.7
+ORD10447,2025-06-20,East,Furniture,Office Chair,Consumer,UPI,2,3855.6,0.05,6666.34,1837.27,4.1
+ORD10521,2025-06-20,West,Clothing,Backpack,Small Business,UPI,7,5192.77,0.05,35913.21,4833.04,5.0
+ORD10568,2025-06-20,West,Electronics,Laptop,Consumer,UPI,3,18380.28,0.15,48744.51,12023.85,5.0
+ORD10129,2025-06-21,South,Clothing,T-Shirt,Small Business,Debit Card,2,4115.82,0.15,6996.89,713.01,3.9
+ORD10409,2025-06-21,North,Clothing,Backpack,Small Business,Debit Card,3,2896.98,0.2,7508.97,1046.07,3.7
+ORD10111,2025-06-23,North,Office Supplies,File Folder,Small Business,UPI,7,758.21,0.05,5445.43,1369.43,4.0
+ORD10163,2025-06-23,West,Office Supplies,Printer Paper,Consumer,UPI,4,4284.72,0.2,14259.55,2952.18,5.0
+ORD10494,2025-06-24,West,Office Supplies,Stapler,Consumer,UPI,4,4286.78,0.05,16941.34,3626.55,4.6
+ORD10040,2025-06-24,West,Grocery,Snacks,Corporate,Credit Card,4,2442.55,0.1,9144.92,1724.27,3.7
+ORD10164,2025-06-26,South,Office Supplies,Pen Set,Consumer,Debit Card,5,4123.02,0.1,18553.6,2262.7,5.0
+ORD10502,2025-06-26,South,Clothing,Shoes,Corporate,Cash,3,2685.58,0.1,7251.07,1776.91,3.0
+ORD10299,2025-06-26,North,Furniture,Cabinet,Consumer,Debit Card,6,14364.03,0.15,79117.07,8116.97,4.7
+ORD10377,2025-06-26,South,Electronics,Monitor,Consumer,Debit Card,7,23069.46,0.05,153411.93,14925.31,2.1
+ORD10315,2025-06-27,North,Electronics,Headphones,Consumer,Debit Card,3,63806.99,0.05,196397.92,34814.32,3.3
+ORD10500,2025-06-27,North,Electronics,Smartphone,Consumer,Cash,7,52588.81,0.05,377692.83,91533.47,5.0
+ORD10552,2025-06-27,North,Office Supplies,File Folder,Corporate,Debit Card,6,1081.3,0.0,7006.81,1876.1,2.9
+ORD10075,2025-06-29,West,Electronics,Smartphone,Consumer,Credit Card,2,62093.81,0.1,116239.61,32149.65,4.7
+ORD10288,2025-06-29,East,Office Supplies,Notebook,Consumer,Credit Card,6,4231.83,0.0,23105.77,2837.86,4.3
+ORD10137,2025-06-29,North,Office Supplies,Pen Set,Corporate,UPI,2,2900.69,0.0,6265.49,1653.18,3.0
+ORD10579,2025-07-01,South,Clothing,Jacket,Corporate,UPI,7,6742.04,0.15,40115.16,6096.58,4.3
+ORD10332,2025-07-01,North,Clothing,Jacket,Consumer,UPI,3,989.84,0.1,2886.38,632.78,4.2
+ORD10349,2025-07-01,North,Furniture,Cabinet,Consumer,UPI,7,2206.82,0.15,14181.02,3017.54,4.5
+ORD10373,2025-07-02,South,Clothing,Shoes,Consumer,Debit Card,2,3407.62,0.05,6474.48,1462.74,4.1
+ORD10070,2025-07-02,West,Grocery,Biscuits,Consumer,Debit Card,1,1083.46,0.15,957.78,194.56,4.8
+ORD10258,2025-07-03,North,Clothing,T-Shirt,Consumer,UPI,5,4132.63,0.0,22316.21,2526.42,3.9
+ORD10287,2025-07-03,West,Clothing,T-Shirt,Corporate,Credit Card,5,535.81,0.1,2507.59,667.57,5.0
+ORD10127,2025-07-04,West,Electronics,Keyboard,Consumer,UPI,1,59492.18,0.05,58778.28,8203.63,3.8
+ORD10182,2025-07-04,East,Office Supplies,Pen Set,Corporate,Cash,7,3626.03,0.0,23097.82,4482.71,4.5
+ORD10514,2025-07-07,South,Electronics,Laptop,Consumer,UPI,2,17791.54,0.05,33803.92,5205.39,3.7
+ORD10003,2025-07-07,East,Electronics,Smartphone,Small Business,Cash,5,62696.37,0.1,256741.62,38915.92,4.2
+ORD10364,2025-07-08,West,Furniture,Cabinet,Corporate,UPI,2,8731.99,0.05,17254.42,1584.52,3.5
+ORD10318,2025-07-10,East,Office Supplies,Stapler,Consumer,UPI,1,1129.56,0.1,925.11,200.5,1.9
+ORD10043,2025-07-10,East,Grocery,Snacks,Consumer,Credit Card,5,1460.8,0.05,6314.33,510.51,4.8
+ORD10031,2025-07-10,South,Electronics,Smartphone,Consumer,Credit Card,7,51469.74,0.05,342273.75,63137.97,4.2
+ORD10450,2025-07-11,West,Furniture,Table,Consumer,UPI,7,22732.06,0.1,148940.43,36885.42,3.1
+ORD10125,2025-07-11,South,Electronics,Headphones,Consumer,Debit Card,5,23429.14,0.0,117145.72,31237.08,3.2
+ORD10535,2025-07-11,South,Furniture,Office Chair,Small Business,UPI,7,14483.84,0.0,101386.89,9314.51,3.4
+ORD10228,2025-07-12,South,Clothing,T-Shirt,Small Business,Credit Card,3,4272.39,0.0,12817.16,2617.89,3.1
+ORD10382,2025-07-12,North,Grocery,Biscuits,Consumer,UPI,3,1463.3,0.1,4266.98,1085.4,3.6
+ORD10304,2025-07-13,South,Clothing,Jacket,Small Business,Cash,3,6258.61,0.1,16898.26,2967.39,4.9
+ORD10085,2025-07-13,South,Office Supplies,File Folder,Consumer,Debit Card,3,1064.43,0.2,2554.62,311.58,3.4
+ORD10221,2025-07-13,South,Electronics,Laptop,Consumer,UPI,3,61869.2,0.05,176327.22,31837.55,5.0
+ORD10002,2025-07-14,North,Office Supplies,File Folder,Small Business,UPI,2,364.97,0.0,788.34,214.72,3.4
+ORD10430,2025-07-15,South,Grocery,Biscuits,Corporate,Credit Card,6,1654.63,0.05,9431.41,2544.27,3.3
+ORD10235,2025-07-15,West,Grocery,Tea,Corporate,Debit Card,1,1999.52,0.05,1975.53,498.04,4.3
+ORD10365,2025-07-15,East,Electronics,Keyboard,Corporate,UPI,7,35698.0,0.15,193286.8,35963.79,4.5
+ORD10455,2025-07-15,North,Office Supplies,File Folder,Consumer,UPI,2,2298.73,0.0,4965.25,1346.51,4.8
+ORD10264,2025-07-15,South,Furniture,Desk,Corporate,UPI,3,7654.86,0.05,21816.36,6044.13,4.4
+ORD10384,2025-07-16,North,Grocery,Biscuits,Small Business,Debit Card,3,2348.89,0.1,6849.38,1684.76,3.8
+ORD10354,2025-07-17,East,Office Supplies,File Folder,Consumer,UPI,1,2293.91,0.0,2087.46,276.38,3.6
+ORD10558,2025-07-17,West,Office Supplies,File Folder,Consumer,Cash,5,1801.02,0.1,8428.8,2024.92,4.7
+ORD10135,2025-07-17,West,Electronics,Headphones,Consumer,Cash,7,45657.68,0.15,282529.73,51735.28,2.8
+ORD10400,2025-07-17,South,Electronics,Keyboard,Small Business,UPI,5,12978.11,0.1,58401.51,13588.78,3.8
+ORD10435,2025-07-17,South,Furniture,Cabinet,Consumer,Debit Card,4,3362.77,0.1,12105.97,1610.48,4.3
+ORD10101,2025-07-17,East,Clothing,Shoes,Corporate,Cash,1,5489.33,0.05,4745.53,1327.97,4.3
+ORD10459,2025-07-18,North,Furniture,Cabinet,Consumer,Cash,4,20108.06,0.1,78180.15,14749.82,4.5
+ORD10302,2025-07-19,South,Grocery,Biscuits,Corporate,Debit Card,4,915.77,0.15,3113.63,391.97,4.3
+ORD10485,2025-07-19,North,Grocery,Snacks,Consumer,Cash,2,1391.42,0.1,2704.91,568.88,3.7
+ORD10266,2025-07-19,North,Office Supplies,File Folder,Corporate,Credit Card,5,647.02,0.05,3319.21,658.48,4.4
+ORD10442,2025-07-20,North,Furniture,Office Chair,Consumer,UPI,2,23228.27,0.0,50173.07,13470.77,3.6
+ORD10339,2025-07-20,North,Furniture,Cabinet,Corporate,UPI,7,27686.3,0.1,188377.59,15687.12,3.2
+ORD10587,2025-07-23,North,Furniture,Bookshelf,Corporate,UPI,7,4725.98,0.1,32155.59,7399.06,4.2
+ORD10300,2025-07-23,East,Clothing,T-Shirt,Small Business,Credit Card,4,5079.23,0.1,16639.57,2874.24,3.1
+ORD10084,2025-07-23,East,Electronics,Keyboard,Consumer,Debit Card,1,14556.63,0.05,12584.21,2597.62,3.7
+ORD10021,2025-07-25,East,Furniture,Bookshelf,Small Business,Debit Card,7,27426.77,0.0,174708.55,16512.05,4.1
+ORD10576,2025-07-25,East,Office Supplies,Stapler,Consumer,Credit Card,7,4318.79,0.1,24759.63,2870.56,4.9
+ORD10156,2025-07-25,South,Furniture,Bookshelf,Small Business,Debit Card,1,18343.93,0.1,16509.54,1385.03,4.3
+ORD10044,2025-07-27,West,Clothing,Shoes,Consumer,UPI,3,3258.4,0.0,10166.2,2205.55,4.4
+ORD10093,2025-07-28,South,Grocery,Tea,Consumer,UPI,6,2344.47,0.2,11253.48,1745.1,3.7
+ORD10359,2025-07-29,North,Electronics,Headphones,Consumer,Credit Card,5,33200.89,0.0,179284.82,23203.76,3.7
+ORD10072,2025-07-30,North,Electronics,Monitor,Consumer,Debit Card,4,45045.77,0.0,194597.71,41344.64,2.7
+ORD10584,2025-07-31,West,Grocery,Tea,Small Business,Credit Card,4,739.59,0.15,2615.17,721.07,4.2
+ORD10407,2025-07-31,West,Electronics,Headphones,Small Business,Debit Card,4,11330.92,0.0,47136.64,11075.53,3.3
+ORD10480,2025-08-01,East,Grocery,Tea,Small Business,Credit Card,1,1259.63,0.1,1031.64,250.27,4.6
+ORD10581,2025-08-02,West,Clothing,T-Shirt,Consumer,Credit Card,7,6951.27,0.05,48075.01,4134.46,3.7
+ORD10145,2025-08-02,East,Furniture,Desk,Small Business,Debit Card,5,27754.74,0.1,113655.66,11855.01,4.8
+ORD10516,2025-08-03,West,Office Supplies,File Folder,Consumer,Debit Card,5,1685.68,0.1,7888.97,2163.08,4.3
+ORD10109,2025-08-05,North,Office Supplies,Pen Set,Corporate,UPI,2,3668.39,0.0,7923.73,1002.76,4.2
+ORD10597,2025-08-06,South,Office Supplies,File Folder,Consumer,UPI,2,744.18,0.05,1413.94,314.09,4.2
+ORD10116,2025-08-07,West,Electronics,Laptop,Small Business,Debit Card,4,38650.99,0.05,152748.73,22396.51,2.8
+ORD10547,2025-08-07,West,Office Supplies,Pen Set,Small Business,Credit Card,5,918.07,0.05,4535.26,509.44,3.1
+ORD10069,2025-08-07,South,Grocery,Rice,Corporate,UPI,4,98.38,0.05,373.86,67.27,3.9
+ORD10413,2025-08-08,West,Office Supplies,File Folder,Small Business,Debit Card,4,3324.54,0.05,13138.58,3336.45,2.9
+ORD10451,2025-08-10,East,Clothing,Jeans,Corporate,Credit Card,7,5002.56,0.05,30273.01,4408.48,3.6
+ORD10196,2025-08-10,South,Grocery,Snacks,Consumer,Credit Card,4,2339.44,0.0,9357.77,1737.4,3.3
+ORD10026,2025-08-11,North,Electronics,Monitor,Corporate,Credit Card,6,5095.87,0.15,28068.06,4764.36,4.8
+ORD10563,2025-08-12,West,Office Supplies,Notebook,Small Business,Debit Card,5,2185.66,0.2,9092.35,2124.67,4.8
+ORD10013,2025-08-13,North,Grocery,Cooking Oil,Corporate,Debit Card,1,808.99,0.05,830.02,66.44,3.3
+ORD10192,2025-08-14,West,Office Supplies,Pen Set,Small Business,Debit Card,4,1807.93,0.15,6392.84,936.74,4.9
+ORD10449,2025-08-14,South,Clothing,Shoes,Consumer,Debit Card,1,3250.92,0.2,2600.74,671.79,2.8
+ORD10437,2025-08-14,South,Electronics,Headphones,Consumer,Credit Card,2,2590.8,0.1,4663.44,552.29,4.5
+ORD10493,2025-08-16,East,Electronics,Smartphone,Consumer,UPI,6,31015.43,0.1,152409.83,42575.24,3.0
+ORD10474,2025-08-16,South,Electronics,Headphones,Consumer,UPI,7,33501.36,0.1,211058.58,48210.76,3.9
+ORD10294,2025-08-16,East,Electronics,Keyboard,Corporate,Credit Card,3,33312.69,0.05,86396.46,21108.63,4.8
+ORD10291,2025-08-17,South,Clothing,Jacket,Consumer,Credit Card,6,6394.79,0.15,32613.43,7257.81,5.0
+ORD10497,2025-08-19,East,Clothing,Shoes,Consumer,UPI,5,4659.1,0.0,21198.9,4723.75,4.0
+ORD10275,2025-08-21,South,Electronics,Keyboard,Consumer,UPI,6,18692.67,0.2,89724.8,20104.41,4.3
+ORD10325,2025-08-22,West,Clothing,T-Shirt,Corporate,Credit Card,2,2769.4,0.05,5472.34,1366.16,3.4
+ORD10037,2025-08-22,South,Clothing,Shoes,Consumer,UPI,5,5337.65,0.05,25353.83,7001.85,3.0
+ORD10487,2025-08-23,North,Electronics,Headphones,Corporate,UPI,1,48050.24,0.15,44110.12,9040.4,3.5
+ORD10379,2025-08-23,North,Office Supplies,Notebook,Small Business,Credit Card,6,1910.08,0.1,11139.6,2608.9,4.1
+ORD10011,2025-08-24,West,Grocery,Cooking Oil,Small Business,Credit Card,4,118.89,0.05,469.86,62.15,3.7
+ORD10092,2025-08-25,South,Office Supplies,Notebook,Corporate,Credit Card,4,3902.94,0.15,13269.99,2184.26,3.9
+ORD10295,2025-08-25,North,Clothing,Backpack,Consumer,UPI,2,6604.7,0.0,14266.15,3739.03,3.6
+ORD10345,2025-08-25,East,Electronics,Headphones,Corporate,Debit Card,3,23013.11,0.05,59684.49,14087.34,4.0
+ORD10297,2025-08-27,South,Electronics,Monitor,Corporate,Debit Card,5,60563.52,0.15,257394.94,42640.39,3.3
+ORD10052,2025-08-28,South,Electronics,Monitor,Consumer,Credit Card,1,59522.29,0.05,56546.17,9170.43,3.6
+ORD10401,2025-08-29,West,Electronics,Keyboard,Corporate,Credit Card,4,56247.4,0.0,233989.2,30794.53,3.8
+ORD10387,2025-08-29,West,Grocery,Biscuits,Consumer,UPI,7,2028.38,0.1,13289.95,2855.54,4.2
+ORD10533,2025-08-29,North,Electronics,Monitor,Corporate,Debit Card,6,14853.42,0.1,86625.16,18233.57,3.7
+ORD10343,2025-08-30,East,Clothing,Jacket,Consumer,Debit Card,2,5573.58,0.1,9129.52,1634.34,4.3
+ORD10296,2025-08-31,East,Clothing,Jeans,Consumer,Debit Card,1,3417.7,0.0,3110.11,373.0,3.8
+ORD10015,2025-08-31,South,Electronics,Keyboard,Small Business,UPI,6,42236.22,0.05,240746.44,45403.67,2.5
+ORD10265,2025-09-01,South,Clothing,Backpack,Consumer,UPI,7,660.15,0.1,4158.95,557.73,2.7
+ORD10285,2025-09-01,South,Grocery,Snacks,Consumer,UPI,4,2376.08,0.05,9029.1,2094.78,3.3
+ORD10440,2025-09-02,West,Office Supplies,Notebook,Consumer,Debit Card,6,2923.79,0.15,15507.76,3043.81,4.5
+ORD10537,2025-09-02,East,Furniture,Desk,Small Business,UPI,7,3430.72,0.05,20761.0,2505.68,4.7
+ORD10351,2025-09-03,North,Clothing,Backpack,Corporate,Credit Card,3,3311.89,0.15,9120.94,2489.57,3.7
+ORD10374,2025-09-03,South,Electronics,Laptop,Small Business,Debit Card,7,30063.5,0.0,210444.51,18901.08,4.1
+ORD10142,2025-09-04,North,Office Supplies,Stapler,Corporate,Cash,1,1480.84,0.15,1359.41,274.75,3.4
+ORD10549,2025-09-04,West,Furniture,Table,Consumer,Credit Card,5,2487.81,0.0,12936.62,3046.01,5.0
+ORD10416,2025-09-05,South,Grocery,Biscuits,Corporate,UPI,4,606.8,0.0,2427.19,658.72,3.4
+ORD10415,2025-09-05,East,Electronics,Headphones,Small Business,Debit Card,4,48885.51,0.05,169046.1,30087.52,3.7
+ORD10174,2025-09-06,North,Furniture,Desk,Small Business,UPI,7,1159.8,0.1,7891.27,2027.9,5.0
+ORD10418,2025-09-06,North,Electronics,Headphones,Corporate,Credit Card,2,7214.27,0.0,15582.82,3793.13,4.6
+ORD10306,2025-09-07,West,Furniture,Desk,Corporate,Credit Card,3,26549.73,0.05,78693.4,19194.81,4.3
+ORD10133,2025-09-07,South,Clothing,T-Shirt,Corporate,Cash,2,3232.7,0.0,6465.4,1706.57,3.9
+ORD10362,2025-09-07,West,Furniture,Desk,Corporate,Debit Card,3,18982.16,0.05,56263.13,11617.28,4.2
+ORD10298,2025-09-07,North,Grocery,Cooking Oil,Consumer,UPI,2,839.01,0.05,1721.66,152.92,5.0
+ORD10078,2025-09-07,North,Clothing,Jeans,Corporate,Debit Card,5,2685.87,0.1,13053.33,2954.39,4.4
+ORD10305,2025-09-08,West,Office Supplies,Stapler,Consumer,UPI,4,3650.0,0.15,12906.39,1852.79,4.4
+ORD10445,2025-09-08,North,Office Supplies,Printer Paper,Consumer,UPI,1,3735.62,0.0,4034.47,329.85,3.4
+ORD10381,2025-09-09,East,Electronics,Smartphone,Corporate,UPI,6,7587.9,0.05,39358.44,8455.32,3.2
+ORD10525,2025-09-09,West,Office Supplies,Pen Set,Small Business,UPI,7,2080.74,0.05,14390.41,1866.81,4.2
+ORD10120,2025-09-09,West,Grocery,Biscuits,Consumer,UPI,2,2261.44,0.1,4233.42,857.68,3.5
+ORD10572,2025-09-10,North,Electronics,Headphones,Consumer,UPI,3,25912.33,0.05,79758.16,21362.78,3.2
+ORD10215,2025-09-10,South,Grocery,Rice,Small Business,UPI,1,1449.12,0.0,1449.12,288.0,5.0
+ORD10391,2025-09-10,East,Grocery,Cooking Oil,Corporate,UPI,4,2391.33,0.05,8269.22,1871.47,4.4
+ORD10454,2025-09-11,East,Electronics,Laptop,Consumer,Debit Card,7,60874.89,0.1,348995.74,45490.17,4.4
+ORD10582,2025-09-12,West,Grocery,Cooking Oil,Consumer,Credit Card,6,1419.6,0.0,8858.29,2325.42,3.3
+ORD10181,2025-09-13,East,Furniture,Cabinet,Corporate,Debit Card,6,16766.21,0.05,86966.32,9815.89,4.3
+ORD10153,2025-09-14,West,Clothing,Backpack,Consumer,Cash,2,2354.88,0.05,4653.24,1280.66,3.1
+ORD10134,2025-09-14,North,Clothing,Jeans,Consumer,Credit Card,7,1015.49,0.05,7293.22,1920.24,3.4
+ORD10543,2025-09-15,East,Grocery,Tea,Small Business,UPI,1,1019.29,0.05,881.18,181.94,4.7
+ORD10428,2025-09-15,South,Electronics,Headphones,Consumer,Debit Card,7,10102.75,0.1,63647.35,6623.69,3.5
+ORD10561,2025-09-15,South,Electronics,Laptop,Consumer,UPI,4,60454.92,0.15,205546.73,27562.89,3.8
+ORD10279,2025-09-16,North,Furniture,Cabinet,Small Business,Debit Card,6,13096.27,0.0,84863.82,19061.39,4.9
+ORD10065,2025-09-16,South,Grocery,Snacks,Consumer,Cash,5,2058.9,0.0,10294.52,2651.01,4.5
+ORD10005,2025-09-16,East,Clothing,Jacket,Consumer,Cash,4,999.91,0.0,3639.68,658.16,3.5
+ORD10334,2025-09-16,East,Furniture,Bookshelf,Corporate,UPI,7,2176.79,0.05,13172.85,3108.19,3.8
+ORD10335,2025-09-17,North,Furniture,Cabinet,Corporate,Cash,4,13500.93,0.05,55407.81,7958.36,4.3
+ORD10324,2025-09-17,South,Clothing,Backpack,Consumer,UPI,4,1477.94,0.15,5025.0,884.11,3.0
+ORD10470,2025-09-18,West,Clothing,Backpack,Corporate,UPI,1,3841.72,0.0,3995.39,549.63,4.1
+ORD10206,2025-09-19,West,Office Supplies,Printer Paper,Corporate,UPI,3,4264.76,0.0,13306.06,2918.28,4.3
+ORD10540,2025-09-19,West,Grocery,Biscuits,Corporate,UPI,3,949.01,0.1,2664.82,227.98,2.9
+ORD10357,2025-09-20,North,Clothing,Backpack,Corporate,Credit Card,2,2535.01,0.1,4928.07,442.08,4.1
+ORD10303,2025-09-20,North,Clothing,Backpack,Consumer,Credit Card,7,3813.24,0.2,23062.47,4112.52,4.2
+ORD10250,2025-09-20,North,Office Supplies,Stapler,Consumer,UPI,5,452.02,0.0,2440.89,208.09,4.3
+ORD10513,2025-09-20,North,Clothing,Jacket,Corporate,Debit Card,3,5402.06,0.15,14877.26,3731.89,3.9
+ORD10255,2025-09-21,South,Furniture,Desk,Consumer,Debit Card,1,17899.83,0.0,17899.83,2061.44,3.5
+ORD10106,2025-09-23,South,Furniture,Table,Consumer,UPI,3,24012.97,0.05,68436.97,5652.25,4.0
+ORD10390,2025-09-23,West,Electronics,Monitor,Small Business,UPI,1,51622.41,0.1,48318.58,12316.64,2.7
+ORD10283,2025-09-24,North,Grocery,Biscuits,Consumer,UPI,6,1971.22,0.0,12773.5,2839.48,3.9
+ORD10380,2025-09-24,East,Office Supplies,Stapler,Corporate,UPI,4,234.19,0.15,724.57,110.25,5.0
+ORD10027,2025-09-25,West,Electronics,Smartphone,Small Business,Debit Card,3,41360.21,0.1,116139.48,11543.53,3.7
+ORD10586,2025-09-26,North,Furniture,Desk,Consumer,Cash,2,12280.05,0.05,25198.66,4751.91,3.9
+ORD10320,2025-09-26,North,Clothing,Jacket,Small Business,Cash,1,3202.14,0.1,3112.48,735.43,4.0
+ORD10148,2025-09-27,South,Clothing,Backpack,Small Business,Credit Card,2,4547.27,0.2,7275.63,881.05,3.8
+ORD10319,2025-09-27,East,Office Supplies,Stapler,Consumer,UPI,3,780.87,0.1,1918.6,449.87,4.0
+ORD10346,2025-09-27,West,Grocery,Snacks,Corporate,Credit Card,2,1598.66,0.15,2826.43,269.21,4.5
+ORD10014,2025-09-27,West,Grocery,Rice,Small Business,Debit Card,1,785.71,0.1,735.43,170.2,4.3
+ORD10310,2025-09-28,West,Grocery,Snacks,Corporate,Debit Card,1,157.46,0.15,139.19,34.58,3.7
+ORD10062,2025-09-28,West,Grocery,Tea,Corporate,Credit Card,3,767.13,0.15,2034.43,435.61,3.9
+ORD10046,2025-09-29,East,Clothing,Jeans,Small Business,UPI,1,951.74,0.0,866.08,239.53,4.9
+ORD10222,2025-09-29,North,Office Supplies,Stapler,Corporate,UPI,7,3575.76,0.2,21626.22,3320.41,3.4
+ORD10292,2025-09-29,North,Electronics,Monitor,Corporate,Debit Card,3,44120.09,0.1,128654.18,17920.0,4.2
+ORD10108,2025-09-30,South,Office Supplies,Pen Set,Corporate,Credit Card,5,1009.89,0.0,5049.44,705.04,4.5
+ORD10183,2025-10-01,South,Electronics,Smartphone,Small Business,Cash,1,60953.0,0.05,57905.35,11393.47,4.7
+ORD10529,2025-10-01,North,Electronics,Monitor,Small Business,Cash,6,42980.33,0.0,278512.54,22653.01,3.4
+ORD10234,2025-10-01,East,Furniture,Cabinet,Small Business,UPI,1,10184.05,0.15,7877.36,961.42,3.2
+ORD10102,2025-10-03,East,Furniture,Bookshelf,Corporate,Credit Card,1,21643.87,0.15,16741.53,2514.85,3.7
+ORD10554,2025-10-03,South,Electronics,Monitor,Consumer,Debit Card,5,34796.99,0.2,139187.95,22925.59,3.6
+ORD10025,2025-10-03,East,Furniture,Bookshelf,Corporate,UPI,6,22279.97,0.05,115566.19,25047.97,4.4
+ORD10056,2025-10-04,North,Office Supplies,Stapler,Corporate,UPI,7,4389.81,0.15,28208.9,2623.28,3.7
+ORD10425,2025-10-05,East,Office Supplies,Notebook,Corporate,Cash,1,3894.38,0.0,3543.88,438.54,5.0
+ORD10363,2025-10-05,North,Office Supplies,Pen Set,Corporate,UPI,3,1099.56,0.05,3384.44,876.91,3.9
+ORD10550,2025-10-07,West,Office Supplies,Printer Paper,Consumer,Debit Card,2,1248.52,0.2,2077.54,209.93,3.7
+ORD10366,2025-10-08,West,Office Supplies,File Folder,Consumer,Credit Card,6,847.98,0.1,4762.27,906.74,3.6
+ORD10356,2025-10-09,East,Office Supplies,Printer Paper,Consumer,Credit Card,7,276.21,0.05,1671.47,375.45,3.8
+ORD10333,2025-10-09,North,Furniture,Bookshelf,Consumer,Credit Card,4,6638.56,0.05,27244.63,3673.93,4.9
+ORD10241,2025-10-09,West,Clothing,Backpack,Corporate,UPI,1,2586.61,0.1,2421.07,577.98,3.8
+ORD10515,2025-10-10,South,Furniture,Bookshelf,Consumer,Debit Card,4,23545.84,0.05,89474.19,13961.35,3.9
+ORD10176,2025-10-10,East,Grocery,Rice,Corporate,UPI,6,1219.59,0.1,5993.06,791.24,4.7
+ORD10175,2025-10-10,South,Office Supplies,Stapler,Corporate,UPI,2,500.93,0.2,801.49,88.08,3.8
+ORD10322,2025-10-12,North,Clothing,Backpack,Consumer,Credit Card,6,1394.68,0.05,8585.66,1446.59,4.1
+ORD10231,2025-10-12,West,Electronics,Keyboard,Consumer,UPI,2,1976.7,0.1,3700.39,490.7,3.8
+ORD10020,2025-10-12,West,Furniture,Office Chair,Small Business,UPI,3,20235.23,0.15,53663.83,5071.01,3.7
+ORD10546,2025-10-13,West,Office Supplies,Pen Set,Corporate,Credit Card,3,3854.92,0.1,10824.61,2323.27,4.2
+ORD10508,2025-10-14,South,Furniture,Desk,Consumer,UPI,2,1188.5,0.1,2139.31,427.97,4.3
+ORD10023,2025-10-16,South,Furniture,Table,Consumer,Debit Card,3,8324.6,0.1,22476.42,5155.85,4.7
+ORD10203,2025-10-16,North,Grocery,Cooking Oil,Corporate,Debit Card,1,1679.83,0.15,1542.09,349.75,2.6
+ORD10193,2025-10-18,East,Electronics,Smartphone,Consumer,Debit Card,3,50420.37,0.05,130765.23,31119.08,3.9
+ORD10370,2025-10-18,North,Furniture,Bookshelf,Consumer,UPI,2,9751.71,0.05,20010.51,5363.83,4.1
+ORD10539,2025-10-20,North,Office Supplies,Notebook,Consumer,UPI,2,1335.66,0.1,2596.52,673.91,4.2
+ORD10463,2025-10-21,South,Office Supplies,Printer Paper,Consumer,Debit Card,1,701.02,0.0,701.02,135.66,4.1
+ORD10340,2025-10-22,South,Electronics,Laptop,Small Business,UPI,3,56111.31,0.0,168333.93,24500.52,5.0
+ORD10399,2025-10-22,North,Office Supplies,Pen Set,Consumer,Credit Card,7,633.03,0.0,4785.68,997.81,4.0
+ORD10486,2025-10-23,East,Office Supplies,Notebook,Consumer,UPI,3,3487.34,0.0,9520.43,2181.98,4.1
+ORD10523,2025-10-24,North,Furniture,Table,Consumer,UPI,6,15001.91,0.05,92351.75,8884.06,4.3
+ORD10337,2025-10-24,North,Grocery,Biscuits,Corporate,Debit Card,3,712.78,0.1,2078.47,312.8,4.1
+ORD10498,2025-10-24,North,Electronics,Keyboard,Consumer,UPI,6,34014.62,0.15,187352.53,17120.17,3.7
+ORD10395,2025-10-25,West,Office Supplies,Stapler,Consumer,Credit Card,3,4304.32,0.1,12086.53,1089.58,4.8
+ORD10443,2025-10-26,North,Grocery,Snacks,Consumer,UPI,1,1508.75,0.05,1547.98,332.85,2.1
+ORD10309,2025-10-27,North,Grocery,Tea,Corporate,Debit Card,6,320.28,0.2,1660.33,256.59,5.0
+ORD10314,2025-10-27,North,Electronics,Monitor,Consumer,Debit Card,2,5588.93,0.0,12072.09,2468.73,3.9
+ORD10321,2025-10-27,North,Electronics,Headphones,Consumer,UPI,1,36341.95,0.05,37286.84,4680.25,4.9
+ORD10047,2025-10-28,South,Grocery,Snacks,Small Business,Debit Card,5,1815.74,0.05,8624.75,1103.54,4.0
+ORD10149,2025-10-29,West,Electronics,Keyboard,Consumer,Credit Card,5,22381.26,0.05,110563.41,27497.55,2.8
+ORD10420,2025-10-30,South,Office Supplies,Stapler,Corporate,Credit Card,2,3545.37,0.0,7090.75,1531.67,4.0
+ORD10114,2025-10-30,South,Clothing,Shoes,Corporate,Debit Card,2,4915.89,0.0,9831.79,2636.64,4.1
+ORD10115,2025-10-31,East,Grocery,Biscuits,Consumer,Debit Card,6,1859.64,0.15,8630.57,1076.77,4.3
+ORD10436,2025-10-31,West,Grocery,Tea,Small Business,UPI,1,161.56,0.05,159.62,23.07,3.0
+ORD10504,2025-10-31,South,Office Supplies,Notebook,Small Business,UPI,4,574.53,0.15,1953.39,264.47,3.6
+ORD10431,2025-10-31,South,Clothing,Shoes,Consumer,UPI,2,2789.38,0.2,4463.01,515.29,4.5
+ORD10519,2025-11-01,West,Office Supplies,Notebook,Corporate,UPI,6,2505.92,0.15,13291.39,3603.75,4.7
+ORD10531,2025-11-01,East,Clothing,Shoes,Consumer,Debit Card,7,4464.35,0.0,28437.89,7122.93,4.1
+ORD10441,2025-11-02,North,Clothing,Shoes,Consumer,Credit Card,1,5780.05,0.05,5930.34,867.62,3.6
+ORD10060,2025-11-02,West,Office Supplies,File Folder,Consumer,Debit Card,3,3937.31,0.15,10441.74,1458.64,3.7
+ORD10262,2025-11-02,North,Grocery,Rice,Consumer,UPI,2,57.3,0.05,117.57,10.78,3.6
+ORD10032,2025-11-04,South,Grocery,Rice,Corporate,UPI,1,649.25,0.0,649.25,71.05,3.3
+ORD10422,2025-11-04,South,Clothing,Jeans,Small Business,UPI,4,3162.76,0.1,11385.94,2810.1,4.8
+ORD10067,2025-11-04,North,Clothing,Jacket,Corporate,Debit Card,4,4022.23,0.1,15638.42,2970.45,3.5
+ORD10190,2025-11-04,North,Electronics,Laptop,Consumer,UPI,1,21087.08,0.15,19357.94,5118.1,3.9
+ORD10216,2025-11-05,West,Electronics,Headphones,Consumer,UPI,1,3717.12,0.1,3479.22,728.72,3.6
+ORD10410,2025-11-05,North,Clothing,Shoes,Consumer,Cash,3,1664.46,0.1,4853.57,471.91,3.9
+ORD10074,2025-11-06,East,Clothing,Shoes,Consumer,Debit Card,6,3962.17,0.0,21633.44,4221.38,3.2
+ORD10414,2025-11-06,East,Grocery,Biscuits,Corporate,UPI,6,2317.47,0.0,12653.37,3110.21,4.3
+ORD10012,2025-11-06,North,Electronics,Smartphone,Consumer,Cash,6,53003.46,0.0,343462.43,31400.41,3.6
+ORD10396,2025-11-06,North,Electronics,Keyboard,Corporate,Cash,3,15660.39,0.15,43128.7,10330.61,4.0
+ORD10591,2025-11-07,West,Electronics,Monitor,Consumer,Debit Card,3,1381.37,0.1,3878.89,632.36,3.9
+ORD10544,2025-11-07,West,Furniture,Desk,Small Business,Debit Card,4,14652.43,0.2,48763.29,6952.35,2.7
+ORD10202,2025-11-07,South,Grocery,Biscuits,Consumer,UPI,7,1273.59,0.0,8915.1,1030.58,3.8
+ORD10252,2025-11-08,West,Office Supplies,Stapler,Consumer,Debit Card,1,653.47,0.2,543.68,114.12,2.3
+ORD10289,2025-11-10,South,Electronics,Keyboard,Corporate,UPI,2,38375.33,0.15,65238.07,9814.56,5.0
+ORD10530,2025-11-11,North,Electronics,Laptop,Small Business,Debit Card,3,22820.42,0.0,73938.17,11626.06,4.5
+ORD10209,2025-11-11,North,Grocery,Cooking Oil,Corporate,Credit Card,5,685.7,0.15,3147.38,460.99,5.0
+ORD10247,2025-11-12,West,Grocery,Snacks,Consumer,Debit Card,3,372.41,0.0,1161.92,228.7,4.4
+ORD10456,2025-11-13,North,Grocery,Tea,Small Business,Cash,4,1011.44,0.2,3495.54,930.14,3.8
+ORD10534,2025-11-13,South,Office Supplies,Stapler,Small Business,UPI,7,4133.37,0.15,24593.55,6407.04,3.9
+ORD10411,2025-11-14,South,Clothing,T-Shirt,Consumer,Cash,1,5071.87,0.0,5071.87,1115.85,3.6
+ORD10141,2025-11-14,North,Electronics,Smartphone,Consumer,Debit Card,7,28142.96,0.05,202122.77,23753.77,3.9
+ORD10326,2025-11-14,East,Office Supplies,Notebook,Consumer,UPI,1,2480.63,0.05,2144.5,198.29,3.6
+ORD10271,2025-11-15,West,Furniture,Desk,Corporate,UPI,6,25565.05,0.0,159525.9,12869.18,3.2
+ORD10522,2025-11-16,East,Electronics,Smartphone,Corporate,UPI,5,7500.17,0.1,30713.18,6330.11,4.5
+ORD10353,2025-11-16,South,Grocery,Cooking Oil,Corporate,Debit Card,4,1004.98,0.05,3818.92,877.68,4.7
+ORD10053,2025-11-17,South,Furniture,Cabinet,Consumer,UPI,7,4704.37,0.2,26344.5,7225.79,5.0
+ORD10536,2025-11-17,West,Grocery,Rice,Consumer,UPI,5,2004.57,0.05,9902.56,1161.0,3.9
+ORD10166,2025-11-17,West,Grocery,Rice,Small Business,UPI,5,1840.63,0.0,9571.26,1284.53,2.8
+ORD10086,2025-11-18,West,Office Supplies,Notebook,Consumer,UPI,2,1588.7,0.0,3304.5,311.68,3.7
+ORD10276,2025-11-18,West,Clothing,Shoes,Corporate,Credit Card,7,3511.12,0.1,23004.86,2799.28,4.9
+ORD10520,2025-11-19,South,Clothing,Jacket,Consumer,UPI,5,5837.73,0.05,27729.2,4510.85,3.6
+ORD10316,2025-11-19,East,Grocery,Biscuits,Corporate,UPI,3,533.06,0.05,1382.48,132.7,3.7
+ORD10273,2025-11-21,South,Grocery,Tea,Corporate,Debit Card,6,1333.26,0.05,7599.58,1244.42,2.8
+ORD10226,2025-11-22,North,Grocery,Snacks,Consumer,UPI,1,2319.43,0.05,2379.73,323.22,4.0
+ORD10589,2025-11-23,North,Furniture,Office Chair,Corporate,UPI,6,15691.6,0.1,91513.4,23593.98,4.1
+ORD10087,2025-11-23,East,Clothing,T-Shirt,Consumer,UPI,1,3056.45,0.0,2781.37,769.01,4.0
+ORD10471,2025-11-24,South,Office Supplies,Pen Set,Consumer,Credit Card,3,1816.04,0.05,5175.73,1157.9,5.0
+ORD10369,2025-11-24,South,Furniture,Cabinet,Consumer,UPI,6,11565.06,0.15,58981.78,8581.78,4.3
+ORD10551,2025-11-24,North,Office Supplies,Printer Paper,Small Business,Credit Card,6,3759.9,0.1,21927.71,3469.8,4.5
+ORD10179,2025-11-26,South,Grocery,Rice,Corporate,Credit Card,6,2157.02,0.05,12294.99,1070.11,4.4
+ORD10242,2025-11-26,West,Grocery,Rice,Consumer,Debit Card,3,448.68,0.0,1399.89,308.05,3.7
+ORD10201,2025-11-26,South,Office Supplies,Stapler,Small Business,Credit Card,5,4224.5,0.1,19010.23,3947.25,3.8
+ORD10263,2025-11-27,South,Furniture,Office Chair,Consumer,UPI,3,12991.65,0.05,37026.19,10036.27,4.9
+ORD10064,2025-11-28,North,Electronics,Keyboard,Corporate,Credit Card,3,16893.3,0.05,51997.56,8223.66,3.4
+ORD10412,2025-11-28,South,Grocery,Tea,Small Business,UPI,2,1135.5,0.1,2043.9,523.2,4.5
+ORD10506,2025-11-29,West,Clothing,T-Shirt,Small Business,UPI,6,2862.77,0.1,16077.3,3733.57,3.3
+ORD10457,2025-11-29,South,Grocery,Tea,Corporate,Credit Card,2,2114.53,0.05,4017.6,818.16,5.0
+ORD10103,2025-11-30,West,Office Supplies,Printer Paper,Corporate,Debit Card,4,4144.9,0.05,16380.66,2567.87,4.7
+ORD10225,2025-12-01,North,Office Supplies,Printer Paper,Consumer,UPI,3,892.75,0.1,2603.25,272.09,3.1
+ORD10244,2025-12-01,West,Office Supplies,Stapler,Consumer,Debit Card,2,2654.97,0.1,4970.11,448.22,4.8
+ORD10511,2025-12-02,East,Office Supplies,File Folder,Small Business,Cash,3,901.36,0.0,2460.72,280.24,4.3
+ORD10167,2025-12-03,South,Grocery,Cooking Oil,Consumer,UPI,1,407.42,0.1,366.67,38.4,5.0
+ORD10251,2025-12-04,South,Clothing,T-Shirt,Consumer,Debit Card,3,3980.78,0.15,10150.99,2508.43,4.7
+ORD10089,2025-12-04,South,Office Supplies,File Folder,Corporate,Debit Card,5,718.92,0.05,3414.87,355.82,4.5
+ORD10185,2025-12-05,North,Office Supplies,Stapler,Consumer,Cash,7,2929.06,0.1,19929.29,4747.87,4.6
+ORD10461,2025-12-05,North,Office Supplies,Printer Paper,Consumer,Debit Card,2,2836.0,0.15,5206.89,1018.3,4.4
+ORD10076,2025-12-06,West,Clothing,Shoes,Small Business,Debit Card,5,3271.66,0.1,15311.36,2601.02,4.3
+ORD10545,2025-12-07,West,Furniture,Bookshelf,Consumer,UPI,6,22569.73,0.2,112668.09,29683.63,4.3
+ORD10408,2025-12-08,North,Electronics,Smartphone,Corporate,Credit Card,2,20024.8,0.05,41090.88,9298.57,4.1
+ORD10077,2025-12-09,West,Grocery,Cooking Oil,Corporate,Debit Card,7,2220.18,0.05,15354.74,2844.23,5.0
+ORD10473,2025-12-09,North,Office Supplies,Stapler,Consumer,Credit Card,3,4289.58,0.1,12508.41,2773.33,3.1
+ORD10496,2025-12-09,West,Clothing,Jeans,Corporate,UPI,5,5839.15,0.05,28845.42,5575.89,4.1
+ORD10433,2025-12-09,West,Grocery,Cooking Oil,Consumer,Cash,5,1888.24,0.1,8836.96,2134.22,4.7
+ORD10308,2025-12-09,West,Office Supplies,Notebook,Corporate,UPI,5,4472.92,0.05,22096.23,5988.36,3.9
+ORD10448,2025-12-09,East,Furniture,Desk,Corporate,Cash,1,22419.27,0.05,19381.46,2676.98,4.0
+ORD10001,2025-12-10,South,Furniture,Table,Consumer,Cash,2,12947.95,0.15,22011.51,5165.14,4.1
+ORD10438,2025-12-10,West,Furniture,Office Chair,Corporate,Credit Card,2,4756.78,0.1,8904.69,2439.64,3.6
+ORD10468,2025-12-11,North,Electronics,Monitor,Consumer,UPI,2,11124.8,0.1,21626.61,2742.1,5.0
+ORD10338,2025-12-11,South,Clothing,T-Shirt,Small Business,UPI,7,1626.02,0.05,10813.0,2419.87,4.3
+ORD10048,2025-12-13,West,Electronics,Smartphone,Consumer,UPI,5,36389.87,0.05,179765.96,38534.11,3.7
+ORD10200,2025-12-13,West,Office Supplies,Pen Set,Consumer,Cash,7,1488.92,0.1,9755.37,798.63,4.3
+ORD10429,2025-12-14,East,Electronics,Keyboard,Corporate,UPI,3,11413.83,0.15,26485.79,4357.58,5.0
+ORD10439,2025-12-14,South,Furniture,Desk,Consumer,Credit Card,6,13396.49,0.0,80378.94,13972.53,3.6
+ORD10386,2025-12-16,North,Furniture,Bookshelf,Consumer,Credit Card,2,3906.02,0.05,8015.15,2060.23,4.2
+ORD10532,2025-12-16,East,Electronics,Laptop,Small Business,UPI,1,64776.13,0.1,53051.65,5745.84,4.8
+ORD10571,2025-12-18,North,Clothing,T-Shirt,Small Business,UPI,2,3450.31,0.05,7080.04,987.1,4.4
+ORD10094,2025-12-20,North,Grocery,Snacks,Small Business,Credit Card,2,1363.86,0.15,2504.04,620.1,4.0
+ORD10152,2025-12-20,East,Electronics,Monitor,Consumer,Debit Card,7,27448.99,0.15,148622.56,38547.11,4.6
+ORD10197,2025-12-21,East,Clothing,Jacket,Corporate,Credit Card,4,3734.54,0.15,11554.68,989.08,4.6
+ORD10317,2025-12-21,East,Grocery,Cooking Oil,Consumer,UPI,1,971.43,0.0,884.0,139.59,4.6
+ORD10245,2025-12-22,West,Furniture,Desk,Consumer,UPI,7,20307.06,0.15,125660.07,11325.83,2.7
+ORD10509,2025-12-23,South,Furniture,Desk,Small Business,UPI,5,21795.53,0.05,103528.78,23954.81,4.4
+ORD10207,2025-12-23,West,Grocery,Biscuits,Consumer,Credit Card,3,1010.05,0.05,2993.8,325.18,3.5
+ORD10527,2025-12-23,South,Electronics,Keyboard,Small Business,UPI,3,33794.08,0.0,101382.23,27216.86,4.6
+ORD10006,2025-12-25,West,Clothing,Jeans,Corporate,Debit Card,2,5202.74,0.1,9739.53,1276.71,3.3
+ORD10009,2025-12-25,West,Electronics,Monitor,Consumer,UPI,1,18253.18,0.1,17084.97,2403.58,4.5
+ORD10499,2025-12-25,South,Grocery,Snacks,Corporate,UPI,4,280.69,0.05,1066.62,254.75,4.6
+ORD10230,2025-12-25,North,Grocery,Rice,Consumer,UPI,7,1212.73,0.0,9168.27,2021.96,4.1
+ORD10311,2025-12-26,West,Electronics,Headphones,Consumer,Cash,4,33536.83,0.15,118586.23,22169.58,4.5
+ORD10375,2025-12-28,East,Clothing,Jacket,Consumer,Credit Card,6,3788.83,0.15,17583.94,2438.5,4.0
+ORD10187,2025-12-28,South,Office Supplies,Stapler,Corporate,Debit Card,4,3895.96,0.1,14025.44,1532.34,3.6
+ORD10507,2025-12-28,North,Office Supplies,Stapler,Corporate,Debit Card,5,1416.98,0.1,6886.51,567.63,3.8
+ORD10328,2025-12-29,South,Furniture,Table,Consumer,UPI,5,19645.77,0.05,93317.41,24067.18,4.7
+ORD10548,2025-12-29,North,Office Supplies,File Folder,Consumer,Cash,6,229.54,0.05,1413.04,387.61,3.4
