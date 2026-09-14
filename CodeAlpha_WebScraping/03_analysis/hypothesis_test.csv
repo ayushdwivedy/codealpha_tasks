@@ -1,0 +1,2 @@
+test,null_hypothesis,correlation_r,p_value,alpha,decision
+Pearson correlation: rating vs price,No linear relationship,0.046744210816396924,0.6459157555690618,0.05,Fail to reject H0

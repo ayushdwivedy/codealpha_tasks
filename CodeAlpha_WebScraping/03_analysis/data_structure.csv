@@ -1,0 +1,8 @@
+variable,data_type,missing_values,unique_values
+title,object,0,99
+price_gbp,float64,1,99
+rating,int64,0,6
+availability,object,1,2
+product_url,object,0,1
+image_url,float64,100,0
+page,int64,0,5
