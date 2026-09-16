@@ -1,0 +1,145 @@
+review_id,source,text,sentiment,emotion
+1,Public-review-style practice data,Absolutely loved this product. The quality is excellent and it works perfectly.,positive,joy
+2,Public-review-style practice data,The delivery was quick and the product feels premium. Very happy with it.,positive,joy
+3,Public-review-style practice data,Amazing value for the price. I would happily buy it again.,positive,satisfaction
+4,Public-review-style practice data,The performance is smooth and reliable. Great purchase overall.,positive,satisfaction
+5,Public-review-style practice data,Setup was simple and the instructions were clear. Very convenient.,positive,satisfaction
+6,Public-review-style practice data,Excellent build quality and a very useful design.,positive,satisfaction
+7,Public-review-style practice data,This made my daily work much easier. I am impressed.,positive,gratitude
+8,Public-review-style practice data,The support team solved my issue quickly. Really appreciate the help.,positive,gratitude
+9,Public-review-style practice data,I am thankful for how easy this was to use.,positive,gratitude
+10,Public-review-style practice data,The sound is fantastic and the battery lasts all day.,positive,excitement
+11,Public-review-style practice data,"Fast, responsive, and better than I expected.",positive,excitement
+12,Public-review-style practice data,The new features are exciting and genuinely useful.,positive,excitement
+13,Public-review-style practice data,Very disappointed. The product stopped working after a few days.,negative,sadness
+14,Public-review-style practice data,The quality is poor and the item feels cheaply made.,negative,disappointment
+15,Public-review-style practice data,I regret buying this product. It did not meet my expectations.,negative,disappointment
+16,Public-review-style practice data,The app crashes frequently and makes the product frustrating to use.,negative,anger
+17,Public-review-style practice data,Customer support ignored my messages and I am extremely annoyed.,negative,anger
+18,Public-review-style practice data,The repeated errors are frustrating and waste a lot of time.,negative,anger
+19,Public-review-style practice data,Delivery was late and the package arrived damaged.,negative,sadness
+20,Public-review-style practice data,The product looks nothing like the description. Very unhappy.,negative,sadness
+21,Public-review-style practice data,Battery life is terrible and I expected much better performance.,negative,disappointment
+22,Public-review-style practice data,This was a waste of money. I would not recommend it.,negative,anger
+23,Public-review-style practice data,The setup was confusing and the instructions were incomplete.,negative,confusion
+24,Public-review-style practice data,I cannot figure out why the feature keeps failing.,negative,confusion
+25,Public-review-style practice data,The product arrived yesterday and I have used it twice so far.,neutral,neutral
+26,Public-review-style practice data,It has the features listed on the product page.,neutral,neutral
+27,Public-review-style practice data,"The package contained the device, cable, and manual.",neutral,neutral
+28,Public-review-style practice data,The application includes a dashboard and notification settings.,neutral,neutral
+29,Public-review-style practice data,I purchased this model in the standard version.,neutral,neutral
+30,Public-review-style practice data,The delivery took four days from the order date.,neutral,neutral
+31,Public-review-style practice data,The product is available in three sizes.,neutral,neutral
+32,Public-review-style practice data,The review is based on one week of regular use.,neutral,neutral
+33,Public-review-style practice data,The device connects through Bluetooth and charges by USB.,neutral,neutral
+34,Public-review-style practice data,The seller provides a one-year warranty.,neutral,neutral
+35,Public-review-style practice data,The interface has several settings that can be adjusted.,neutral,neutral
+36,Public-review-style practice data,The box arrived sealed and included the listed accessories.,neutral,neutral
+37,Public-review-style practice data,"In my experience, absolutely loved this product. the quality is excellent and it works perfectly.",positive,joy
+38,Public-review-style practice data,"In my experience, the delivery was quick and the product feels premium. very happy with it.",positive,joy
+39,Public-review-style practice data,"In my experience, amazing value for the price. i would happily buy it again.",positive,satisfaction
+40,Public-review-style practice data,"In my experience, the performance is smooth and reliable. great purchase overall.",positive,satisfaction
+41,Public-review-style practice data,"In my experience, setup was simple and the instructions were clear. very convenient.",positive,satisfaction
+42,Public-review-style practice data,"In my experience, excellent build quality and a very useful design.",positive,satisfaction
+43,Public-review-style practice data,"In my experience, this made my daily work much easier. i am impressed.",positive,gratitude
+44,Public-review-style practice data,"In my experience, the support team solved my issue quickly. really appreciate the help.",positive,gratitude
+45,Public-review-style practice data,"In my experience, i am thankful for how easy this was to use.",positive,gratitude
+46,Public-review-style practice data,"In my experience, the sound is fantastic and the battery lasts all day.",positive,excitement
+47,Public-review-style practice data,"In my experience, fast, responsive, and better than i expected.",positive,excitement
+48,Public-review-style practice data,"In my experience, the new features are exciting and genuinely useful.",positive,excitement
+49,Public-review-style practice data,"In my experience, very disappointed. the product stopped working after a few days.",negative,sadness
+50,Public-review-style practice data,"In my experience, the quality is poor and the item feels cheaply made.",negative,disappointment
+51,Public-review-style practice data,"In my experience, i regret buying this product. it did not meet my expectations.",negative,disappointment
+52,Public-review-style practice data,"In my experience, the app crashes frequently and makes the product frustrating to use.",negative,anger
+53,Public-review-style practice data,"In my experience, customer support ignored my messages and i am extremely annoyed.",negative,anger
+54,Public-review-style practice data,"In my experience, the repeated errors are frustrating and waste a lot of time.",negative,anger
+55,Public-review-style practice data,"In my experience, delivery was late and the package arrived damaged.",negative,sadness
+56,Public-review-style practice data,"In my experience, the product looks nothing like the description. very unhappy.",negative,sadness
+57,Public-review-style practice data,"In my experience, battery life is terrible and i expected much better performance.",negative,disappointment
+58,Public-review-style practice data,"In my experience, this was a waste of money. i would not recommend it.",negative,anger
+59,Public-review-style practice data,"In my experience, the setup was confusing and the instructions were incomplete.",negative,confusion
+60,Public-review-style practice data,"In my experience, i cannot figure out why the feature keeps failing.",negative,confusion
+61,Public-review-style practice data,"In my experience, the product arrived yesterday and i have used it twice so far.",neutral,neutral
+62,Public-review-style practice data,"In my experience, it has the features listed on the product page.",neutral,neutral
+63,Public-review-style practice data,"In my experience, the package contained the device, cable, and manual.",neutral,neutral
+64,Public-review-style practice data,"In my experience, the application includes a dashboard and notification settings.",neutral,neutral
+65,Public-review-style practice data,"In my experience, i purchased this model in the standard version.",neutral,neutral
+66,Public-review-style practice data,"In my experience, the delivery took four days from the order date.",neutral,neutral
+67,Public-review-style practice data,"In my experience, the product is available in three sizes.",neutral,neutral
+68,Public-review-style practice data,"In my experience, the review is based on one week of regular use.",neutral,neutral
+69,Public-review-style practice data,"In my experience, the device connects through bluetooth and charges by usb.",neutral,neutral
+70,Public-review-style practice data,"In my experience, the seller provides a one-year warranty.",neutral,neutral
+71,Public-review-style practice data,"In my experience, the interface has several settings that can be adjusted.",neutral,neutral
+72,Public-review-style practice data,"In my experience, the box arrived sealed and included the listed accessories.",neutral,neutral
+73,Public-review-style practice data,"For me, absolutely loved this product. the quality is excellent and it works perfectly.",positive,joy
+74,Public-review-style practice data,"For me, the delivery was quick and the product feels premium. very happy with it.",positive,joy
+75,Public-review-style practice data,"For me, amazing value for the price. i would happily buy it again.",positive,satisfaction
+76,Public-review-style practice data,"For me, the performance is smooth and reliable. great purchase overall.",positive,satisfaction
+77,Public-review-style practice data,"For me, setup was simple and the instructions were clear. very convenient.",positive,satisfaction
+78,Public-review-style practice data,"For me, excellent build quality and a very useful design.",positive,satisfaction
+79,Public-review-style practice data,"For me, this made my daily work much easier. i am impressed.",positive,gratitude
+80,Public-review-style practice data,"For me, the support team solved my issue quickly. really appreciate the help.",positive,gratitude
+81,Public-review-style practice data,"For me, i am thankful for how easy this was to use.",positive,gratitude
+82,Public-review-style practice data,"For me, the sound is fantastic and the battery lasts all day.",positive,excitement
+83,Public-review-style practice data,"For me, fast, responsive, and better than i expected.",positive,excitement
+84,Public-review-style practice data,"For me, the new features are exciting and genuinely useful.",positive,excitement
+85,Public-review-style practice data,"For me, very disappointed. the product stopped working after a few days.",negative,sadness
+86,Public-review-style practice data,"For me, the quality is poor and the item feels cheaply made.",negative,disappointment
+87,Public-review-style practice data,"For me, i regret buying this product. it did not meet my expectations.",negative,disappointment
+88,Public-review-style practice data,"For me, the app crashes frequently and makes the product frustrating to use.",negative,anger
+89,Public-review-style practice data,"For me, customer support ignored my messages and i am extremely annoyed.",negative,anger
+90,Public-review-style practice data,"For me, the repeated errors are frustrating and waste a lot of time.",negative,anger
+91,Public-review-style practice data,"For me, delivery was late and the package arrived damaged.",negative,sadness
+92,Public-review-style practice data,"For me, the product looks nothing like the description. very unhappy.",negative,sadness
+93,Public-review-style practice data,"For me, battery life is terrible and i expected much better performance.",negative,disappointment
+94,Public-review-style practice data,"For me, this was a waste of money. i would not recommend it.",negative,anger
+95,Public-review-style practice data,"For me, the setup was confusing and the instructions were incomplete.",negative,confusion
+96,Public-review-style practice data,"For me, i cannot figure out why the feature keeps failing.",negative,confusion
+97,Public-review-style practice data,"For me, the product arrived yesterday and i have used it twice so far.",neutral,neutral
+98,Public-review-style practice data,"For me, it has the features listed on the product page.",neutral,neutral
+99,Public-review-style practice data,"For me, the package contained the device, cable, and manual.",neutral,neutral
+100,Public-review-style practice data,"For me, the application includes a dashboard and notification settings.",neutral,neutral
+101,Public-review-style practice data,"For me, i purchased this model in the standard version.",neutral,neutral
+102,Public-review-style practice data,"For me, the delivery took four days from the order date.",neutral,neutral
+103,Public-review-style practice data,"For me, the product is available in three sizes.",neutral,neutral
+104,Public-review-style practice data,"For me, the review is based on one week of regular use.",neutral,neutral
+105,Public-review-style practice data,"For me, the device connects through bluetooth and charges by usb.",neutral,neutral
+106,Public-review-style practice data,"For me, the seller provides a one-year warranty.",neutral,neutral
+107,Public-review-style practice data,"For me, the interface has several settings that can be adjusted.",neutral,neutral
+108,Public-review-style practice data,"For me, the box arrived sealed and included the listed accessories.",neutral,neutral
+109,Public-review-style practice data,"After using it, absolutely loved this product. the quality is excellent and it works perfectly.",positive,joy
+110,Public-review-style practice data,"After using it, the delivery was quick and the product feels premium. very happy with it.",positive,joy
+111,Public-review-style practice data,"After using it, amazing value for the price. i would happily buy it again.",positive,satisfaction
+112,Public-review-style practice data,"After using it, the performance is smooth and reliable. great purchase overall.",positive,satisfaction
+113,Public-review-style practice data,"After using it, setup was simple and the instructions were clear. very convenient.",positive,satisfaction
+114,Public-review-style practice data,"After using it, excellent build quality and a very useful design.",positive,satisfaction
+115,Public-review-style practice data,"After using it, this made my daily work much easier. i am impressed.",positive,gratitude
+116,Public-review-style practice data,"After using it, the support team solved my issue quickly. really appreciate the help.",positive,gratitude
+117,Public-review-style practice data,"After using it, i am thankful for how easy this was to use.",positive,gratitude
+118,Public-review-style practice data,"After using it, the sound is fantastic and the battery lasts all day.",positive,excitement
+119,Public-review-style practice data,"After using it, fast, responsive, and better than i expected.",positive,excitement
+120,Public-review-style practice data,"After using it, the new features are exciting and genuinely useful.",positive,excitement
+121,Public-review-style practice data,"After using it, very disappointed. the product stopped working after a few days.",negative,sadness
+122,Public-review-style practice data,"After using it, the quality is poor and the item feels cheaply made.",negative,disappointment
+123,Public-review-style practice data,"After using it, i regret buying this product. it did not meet my expectations.",negative,disappointment
+124,Public-review-style practice data,"After using it, the app crashes frequently and makes the product frustrating to use.",negative,anger
+125,Public-review-style practice data,"After using it, customer support ignored my messages and i am extremely annoyed.",negative,anger
+126,Public-review-style practice data,"After using it, the repeated errors are frustrating and waste a lot of time.",negative,anger
+127,Public-review-style practice data,"After using it, delivery was late and the package arrived damaged.",negative,sadness
+128,Public-review-style practice data,"After using it, the product looks nothing like the description. very unhappy.",negative,sadness
+129,Public-review-style practice data,"After using it, battery life is terrible and i expected much better performance.",negative,disappointment
+130,Public-review-style practice data,"After using it, this was a waste of money. i would not recommend it.",negative,anger
+131,Public-review-style practice data,"After using it, the setup was confusing and the instructions were incomplete.",negative,confusion
+132,Public-review-style practice data,"After using it, i cannot figure out why the feature keeps failing.",negative,confusion
+133,Public-review-style practice data,"After using it, the product arrived yesterday and i have used it twice so far.",neutral,neutral
+134,Public-review-style practice data,"After using it, it has the features listed on the product page.",neutral,neutral
+135,Public-review-style practice data,"After using it, the package contained the device, cable, and manual.",neutral,neutral
+136,Public-review-style practice data,"After using it, the application includes a dashboard and notification settings.",neutral,neutral
+137,Public-review-style practice data,"After using it, i purchased this model in the standard version.",neutral,neutral
+138,Public-review-style practice data,"After using it, the delivery took four days from the order date.",neutral,neutral
+139,Public-review-style practice data,"After using it, the product is available in three sizes.",neutral,neutral
+140,Public-review-style practice data,"After using it, the review is based on one week of regular use.",neutral,neutral
+141,Public-review-style practice data,"After using it, the device connects through bluetooth and charges by usb.",neutral,neutral
+142,Public-review-style practice data,"After using it, the seller provides a one-year warranty.",neutral,neutral
+143,Public-review-style practice data,"After using it, the interface has several settings that can be adjusted.",neutral,neutral
+144,Public-review-style practice data,"After using it, the box arrived sealed and included the listed accessories.",neutral,neutral
